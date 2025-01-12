@@ -1,0 +1,2729 @@
+Year,Country,Energy_Consumption,Growth_Rate
+1990,China,874.0,874.0
+1991,China,848.0,848.0
+1992,China,877.0,877.0
+1993,China,929.0,929.0
+1994,China,973.0,973.0
+1995,China,1045.0,1045.0
+1996,China,1074.0,1074.0
+1997,China,1073.0,1073.0
+1998,China,1079.0,1079.0
+1999,China,1099.0,1099.0
+2000,China,1130.0,1130.0
+2001,China,1168.0,1168.0
+2002,China,1246.0,1246.0
+2003,China,1420.0,1420.0
+2004,China,1615.0,1615.0
+2005,China,1782.0,1782.0
+2006,China,1950.0,1950.0
+2007,China,2099.0,2099.0
+2008,China,2155.0,2155.0
+2009,China,2297.0,2297.0
+2010,China,2536.0,2536.0
+2011,China,2723.0,2723.0
+2012,China,2821.0,2821.0
+2013,China,2912.0,2912.0
+2014,China,2966.0,2966.0
+2015,China,2994.0,2994.0
+2016,China,2977.0,2977.0
+2017,China,3070.0,3070.0
+2018,China,3201.0,3201.0
+2019,China,3309.0,3309.0
+2020,China,3381.0,3381.0
+1990,United States,1910.0,1910.0
+1991,United States,1925.0,1925.0
+1992,United States,1964.0,1964.0
+1993,United States,1998.0,1998.0
+1994,United States,2036.0,2036.0
+1995,United States,2063.0,2063.0
+1996,United States,2108.0,2108.0
+1997,United States,2130.0,2130.0
+1998,United States,2148.0,2148.0
+1999,United States,2206.0,2206.0
+2000,United States,2269.0,2269.0
+2001,United States,2226.0,2226.0
+2002,United States,2256.0,2256.0
+2003,United States,2262.0,2262.0
+2004,United States,2308.0,2308.0
+2005,United States,2320.0,2320.0
+2006,United States,2298.0,2298.0
+2007,United States,2338.0,2338.0
+2008,United States,2278.0,2278.0
+2009,United States,2165.0,2165.0
+2010,United States,2217.0,2217.0
+2011,United States,2191.0,2191.0
+2012,United States,2152.0,2152.0
+2013,United States,2190.0,2190.0
+2014,United States,2216.0,2216.0
+2015,United States,2192.0,2192.0
+2016,United States,2168.0,2168.0
+2017,United States,2161.0,2161.0
+2018,United States,2236.0,2236.0
+2019,United States,2214.0,2214.0
+2020,United States,2046.0,2046.0
+1990,Brazil,141.0,141.0
+1991,Brazil,143.0,143.0
+1992,Brazil,145.0,145.0
+1993,Brazil,148.0,148.0
+1994,Brazil,156.0,156.0
+1995,Brazil,162.0,162.0
+1996,Brazil,170.0,170.0
+1997,Brazil,179.0,179.0
+1998,Brazil,183.0,183.0
+1999,Brazil,187.0,187.0
+2000,Brazil,188.0,188.0
+2001,Brazil,191.0,191.0
+2002,Brazil,196.0,196.0
+2003,Brazil,199.0,199.0
+2004,Brazil,211.0,211.0
+2005,Brazil,216.0,216.0
+2006,Brazil,224.0,224.0
+2007,Brazil,236.0,236.0
+2008,Brazil,250.0,250.0
+2009,Brazil,242.0,242.0
+2010,Brazil,267.0,267.0
+2011,Brazil,271.0,271.0
+2012,Brazil,282.0,282.0
+2013,Brazil,294.0,294.0
+2014,Brazil,303.0,303.0
+2015,Brazil,297.0,297.0
+2016,Brazil,287.0,287.0
+2017,Brazil,292.0,292.0
+2018,Brazil,288.0,288.0
+2019,Brazil,293.0,293.0
+2020,Brazil,286.0,286.0
+1990,Belgium,48.0,48.0
+1991,Belgium,50.0,50.0
+1992,Belgium,51.0,51.0
+1993,Belgium,49.0,49.0
+1994,Belgium,52.0,52.0
+1995,Belgium,53.0,53.0
+1996,Belgium,56.0,56.0
+1997,Belgium,56.0,56.0
+1998,Belgium,57.0,57.0
+1999,Belgium,57.0,57.0
+2000,Belgium,58.0,58.0
+2001,Belgium,58.0,58.0
+2002,Belgium,56.0,56.0
+2003,Belgium,58.0,58.0
+2004,Belgium,58.0,58.0
+2005,Belgium,58.0,58.0
+2006,Belgium,57.0,57.0
+2007,Belgium,56.0,56.0
+2008,Belgium,58.0,58.0
+2009,Belgium,56.0,56.0
+2010,Belgium,60.0,60.0
+2011,Belgium,56.0,56.0
+2012,Belgium,53.0,53.0
+2013,Belgium,56.0,56.0
+2014,Belgium,53.0,53.0
+2015,Belgium,52.0,52.0
+2016,Belgium,56.0,56.0
+2017,Belgium,55.0,55.0
+2018,Belgium,53.0,53.0
+2019,Belgium,55.0,55.0
+2020,Belgium,51.0,51.0
+1990,Czechia,50.0,50.0
+1991,Czechia,45.0,45.0
+1992,Czechia,44.0,44.0
+1993,Czechia,43.0,43.0
+1994,Czechia,41.0,41.0
+1995,Czechia,42.0,42.0
+1996,Czechia,43.0,43.0
+1997,Czechia,43.0,43.0
+1998,Czechia,42.0,42.0
+1999,Czechia,39.0,39.0
+2000,Czechia,41.0,41.0
+2001,Czechia,42.0,42.0
+2002,Czechia,43.0,43.0
+2003,Czechia,45.0,45.0
+2004,Czechia,46.0,46.0
+2005,Czechia,45.0,45.0
+2006,Czechia,46.0,46.0
+2007,Czechia,46.0,46.0
+2008,Czechia,45.0,45.0
+2009,Czechia,43.0,43.0
+2010,Czechia,45.0,45.0
+2011,Czechia,43.0,43.0
+2012,Czechia,43.0,43.0
+2013,Czechia,43.0,43.0
+2014,Czechia,42.0,42.0
+2015,Czechia,42.0,42.0
+2016,Czechia,41.0,41.0
+2017,Czechia,43.0,43.0
+2018,Czechia,43.0,43.0
+2019,Czechia,43.0,43.0
+2020,Czechia,39.0,39.0
+1990,France,225.0,225.0
+1991,France,237.0,237.0
+1992,France,234.0,234.0
+1993,France,238.0,238.0
+1994,France,231.0,231.0
+1995,France,240.0,240.0
+1996,France,251.0,251.0
+1997,France,244.0,244.0
+1998,France,252.0,252.0
+1999,France,252.0,252.0
+2000,France,255.0,255.0
+2001,France,260.0,260.0
+2002,France,261.0,261.0
+2003,France,268.0,268.0
+2004,France,271.0,271.0
+2005,France,273.0,273.0
+2006,France,268.0,268.0
+2007,France,265.0,265.0
+2008,France,266.0,266.0
+2009,France,255.0,255.0
+2010,France,263.0,263.0
+2011,France,258.0,258.0
+2012,France,258.0,258.0
+2013,France,259.0,259.0
+2014,France,249.0,249.0
+2015,France,253.0,253.0
+2016,France,248.0,248.0
+2017,France,247.0,247.0
+2018,France,246.0,246.0
+2019,France,243.0,243.0
+2020,France,217.0,217.0
+1990,Germany,351.0,351.0
+1991,Germany,344.0,344.0
+1992,Germany,338.0,338.0
+1993,Germany,335.0,335.0
+1994,Germany,333.0,333.0
+1995,Germany,336.0,336.0
+1996,Germany,348.0,348.0
+1997,Germany,345.0,345.0
+1998,Germany,343.0,343.0
+1999,Germany,335.0,335.0
+2000,Germany,337.0,337.0
+2001,Germany,347.0,347.0
+2002,Germany,339.0,339.0
+2003,Germany,338.0,338.0
+2004,Germany,341.0,341.0
+2005,Germany,339.0,339.0
+2006,Germany,349.0,349.0
+2007,Germany,331.0,331.0
+2008,Germany,335.0,335.0
+2009,Germany,313.0,313.0
+2010,Germany,330.0,330.0
+2011,Germany,313.0,313.0
+2012,Germany,315.0,315.0
+2013,Germany,322.0,322.0
+2014,Germany,307.0,307.0
+2015,Germany,309.0,309.0
+2016,Germany,310.0,310.0
+2017,Germany,311.0,311.0
+2018,Germany,302.0,302.0
+2019,Germany,294.0,294.0
+2020,Germany,275.0,275.0
+1990,Italy,147.0,147.0
+1991,Italy,150.0,150.0
+1992,Italy,149.0,149.0
+1993,Italy,149.0,149.0
+1994,Italy,147.0,147.0
+1995,Italy,159.0,159.0
+1996,Italy,159.0,159.0
+1997,Italy,162.0,162.0
+1998,Italy,166.0,166.0
+1999,Italy,169.0,169.0
+2000,Italy,172.0,172.0
+2001,Italy,172.0,172.0
+2002,Italy,174.0,174.0
+2003,Italy,182.0,182.0
+2004,Italy,183.0,183.0
+2005,Italy,187.0,187.0
+2006,Italy,185.0,185.0
+2007,Italy,184.0,184.0
+2008,Italy,182.0,182.0
+2009,Italy,170.0,170.0
+2010,Italy,174.0,174.0
+2011,Italy,168.0,168.0
+2012,Italy,162.0,162.0
+2013,Italy,156.0,156.0
+2014,Italy,147.0,147.0
+2015,Italy,153.0,153.0
+2016,Italy,151.0,151.0
+2017,Italy,154.0,154.0
+2018,Italy,151.0,151.0
+2019,Italy,149.0,149.0
+2020,Italy,137.0,137.0
+1990,Netherlands,67.0,67.0
+1991,Netherlands,69.0,69.0
+1992,Netherlands,69.0,69.0
+1993,Netherlands,70.0,70.0
+1994,Netherlands,70.0,70.0
+1995,Netherlands,73.0,73.0
+1996,Netherlands,77.0,77.0
+1997,Netherlands,75.0,75.0
+1998,Netherlands,75.0,75.0
+1999,Netherlands,74.0,74.0
+2000,Netherlands,75.0,75.0
+2001,Netherlands,77.0,77.0
+2002,Netherlands,78.0,78.0
+2003,Netherlands,80.0,80.0
+2004,Netherlands,81.0,81.0
+2005,Netherlands,80.0,80.0
+2006,Netherlands,79.0,79.0
+2007,Netherlands,79.0,79.0
+2008,Netherlands,78.0,78.0
+2009,Netherlands,77.0,77.0
+2010,Netherlands,83.0,83.0
+2011,Netherlands,77.0,77.0
+2012,Netherlands,77.0,77.0
+2013,Netherlands,75.0,75.0
+2014,Netherlands,71.0,71.0
+2015,Netherlands,72.0,72.0
+2016,Netherlands,74.0,74.0
+2017,Netherlands,74.0,74.0
+2018,Netherlands,73.0,73.0
+2019,Netherlands,72.0,72.0
+2020,Netherlands,70.0,70.0
+1990,Poland,103.0,103.0
+1991,Poland,101.0,101.0
+1992,Poland,99.0,99.0
+1993,Poland,101.0,101.0
+1994,Poland,96.0,96.0
+1995,Poland,99.0,99.0
+1996,Poland,104.0,104.0
+1997,Poland,102.0,102.0
+1998,Poland,95.0,95.0
+1999,Poland,93.0,93.0
+2000,Poland,89.0,89.0
+2001,Poland,90.0,90.0
+2002,Poland,89.0,89.0
+2003,Poland,91.0,91.0
+2004,Poland,91.0,91.0
+2005,Poland,92.0,92.0
+2006,Poland,97.0,97.0
+2007,Poland,97.0,97.0
+2008,Poland,98.0,98.0
+2009,Poland,94.0,94.0
+2010,Poland,101.0,101.0
+2011,Poland,101.0,101.0
+2012,Poland,98.0,98.0
+2013,Poland,98.0,98.0
+2014,Poland,95.0,95.0
+2015,Poland,96.0,96.0
+2016,Poland,100.0,100.0
+2017,Poland,104.0,104.0
+2018,Poland,106.0,106.0
+2019,Poland,103.0,103.0
+2020,Poland,97.0,97.0
+1990,Portugal,17.0,17.0
+1991,Portugal,17.0,17.0
+1992,Portugal,18.0,18.0
+1993,Portugal,18.0,18.0
+1994,Portugal,18.0,18.0
+1995,Portugal,20.0,20.0
+1996,Portugal,20.0,20.0
+1997,Portugal,21.0,21.0
+1998,Portugal,23.0,23.0
+1999,Portugal,24.0,24.0
+2000,Portugal,25.0,25.0
+2001,Portugal,25.0,25.0
+2002,Portugal,26.0,26.0
+2003,Portugal,25.0,25.0
+2004,Portugal,26.0,26.0
+2005,Portugal,26.0,26.0
+2006,Portugal,25.0,25.0
+2007,Portugal,25.0,25.0
+2008,Portugal,25.0,25.0
+2009,Portugal,24.0,24.0
+2010,Portugal,23.0,23.0
+2011,Portugal,23.0,23.0
+2012,Portugal,21.0,21.0
+2013,Portugal,22.0,22.0
+2014,Portugal,21.0,21.0
+2015,Portugal,22.0,22.0
+2016,Portugal,22.0,22.0
+2017,Portugal,23.0,23.0
+2018,Portugal,22.0,22.0
+2019,Portugal,22.0,22.0
+2020,Portugal,20.0,20.0
+1990,Romania,62.0,62.0
+1991,Romania,51.0,51.0
+1992,Romania,46.0,46.0
+1993,Romania,46.0,46.0
+1994,Romania,43.0,43.0
+1995,Romania,47.0,47.0
+1996,Romania,48.0,48.0
+1997,Romania,45.0,45.0
+1998,Romania,41.0,41.0
+1999,Romania,36.0,36.0
+2000,Romania,36.0,36.0
+2001,Romania,37.0,37.0
+2002,Romania,38.0,38.0
+2003,Romania,40.0,40.0
+2004,Romania,39.0,39.0
+2005,Romania,39.0,39.0
+2006,Romania,40.0,40.0
+2007,Romania,40.0,40.0
+2008,Romania,40.0,40.0
+2009,Romania,35.0,35.0
+2010,Romania,35.0,35.0
+2011,Romania,36.0,36.0
+2012,Romania,35.0,35.0
+2013,Romania,32.0,32.0
+2014,Romania,32.0,32.0
+2015,Romania,32.0,32.0
+2016,Romania,32.0,32.0
+2017,Romania,33.0,33.0
+2018,Romania,34.0,34.0
+2019,Romania,33.0,33.0
+2020,Romania,32.0,32.0
+1990,Spain,90.0,90.0
+1991,Spain,93.0,93.0
+1992,Spain,95.0,95.0
+1993,Spain,91.0,91.0
+1994,Spain,96.0,96.0
+1995,Spain,101.0,101.0
+1996,Spain,99.0,99.0
+1997,Spain,106.0,106.0
+1998,Spain,111.0,111.0
+1999,Spain,116.0,116.0
+2000,Spain,121.0,121.0
+2001,Spain,125.0,125.0
+2002,Spain,128.0,128.0
+2003,Spain,133.0,133.0
+2004,Spain,139.0,139.0
+2005,Spain,142.0,142.0
+2006,Spain,141.0,141.0
+2007,Spain,143.0,143.0
+2008,Spain,139.0,139.0
+2009,Spain,127.0,127.0
+2010,Spain,127.0,127.0
+2011,Spain,125.0,125.0
+2012,Spain,124.0,124.0
+2013,Spain,116.0,116.0
+2014,Spain,113.0,113.0
+2015,Spain,117.0,117.0
+2016,Spain,118.0,118.0
+2017,Spain,125.0,125.0
+2018,Spain,124.0,124.0
+2019,Spain,121.0,121.0
+2020,Spain,107.0,107.0
+1990,Sweden,47.0,47.0
+1991,Sweden,49.0,49.0
+1992,Sweden,47.0,47.0
+1993,Sweden,46.0,46.0
+1994,Sweden,50.0,50.0
+1995,Sweden,50.0,50.0
+1996,Sweden,51.0,51.0
+1997,Sweden,50.0,50.0
+1998,Sweden,51.0,51.0
+1999,Sweden,50.0,50.0
+2000,Sweden,48.0,48.0
+2001,Sweden,50.0,50.0
+2002,Sweden,52.0,52.0
+2003,Sweden,51.0,51.0
+2004,Sweden,53.0,53.0
+2005,Sweden,52.0,52.0
+2006,Sweden,50.0,50.0
+2007,Sweden,50.0,50.0
+2008,Sweden,50.0,50.0
+2009,Sweden,45.0,45.0
+2010,Sweden,51.0,51.0
+2011,Sweden,50.0,50.0
+2012,Sweden,50.0,50.0
+2013,Sweden,49.0,49.0
+2014,Sweden,48.0,48.0
+2015,Sweden,44.0,44.0
+2016,Sweden,48.0,48.0
+2017,Sweden,49.0,49.0
+2018,Sweden,50.0,50.0
+2019,Sweden,49.0,49.0
+2020,Sweden,47.0,47.0
+1990,United Kingdom,206.0,206.0
+1991,United Kingdom,213.0,213.0
+1992,United Kingdom,213.0,213.0
+1993,United Kingdom,215.0,215.0
+1994,United Kingdom,216.0,216.0
+1995,United Kingdom,217.0,217.0
+1996,United Kingdom,226.0,226.0
+1997,United Kingdom,219.0,219.0
+1998,United Kingdom,221.0,221.0
+1999,United Kingdom,222.0,222.0
+2000,United Kingdom,223.0,223.0
+2001,United Kingdom,224.0,224.0
+2002,United Kingdom,221.0,221.0
+2003,United Kingdom,224.0,224.0
+2004,United Kingdom,222.0,222.0
+2005,United Kingdom,223.0,223.0
+2006,United Kingdom,219.0,219.0
+2007,United Kingdom,211.0,211.0
+2008,United Kingdom,209.0,209.0
+2009,United Kingdom,196.0,196.0
+2010,United Kingdom,204.0,204.0
+2011,United Kingdom,189.0,189.0
+2012,United Kingdom,194.0,194.0
+2013,United Kingdom,191.0,191.0
+2014,United Kingdom,180.0,180.0
+2015,United Kingdom,182.0,182.0
+2016,United Kingdom,179.0,179.0
+2017,United Kingdom,176.0,176.0
+2018,United Kingdom,175.0,175.0
+2019,United Kingdom,170.0,170.0
+2020,United Kingdom,154.0,154.0
+1990,Norway,21.0,21.0
+1991,Norway,22.0,22.0
+1992,Norway,22.0,22.0
+1993,Norway,24.0,24.0
+1994,Norway,23.0,23.0
+1995,Norway,24.0,24.0
+1996,Norway,23.0,23.0
+1997,Norway,24.0,24.0
+1998,Norway,25.0,25.0
+1999,Norway,26.0,26.0
+2000,Norway,26.0,26.0
+2001,Norway,27.0,27.0
+2002,Norway,25.0,25.0
+2003,Norway,27.0,27.0
+2004,Norway,27.0,27.0
+2005,Norway,27.0,27.0
+2006,Norway,27.0,27.0
+2007,Norway,28.0,28.0
+2008,Norway,32.0,32.0
+2009,Norway,32.0,32.0
+2010,Norway,33.0,33.0
+2011,Norway,28.0,28.0
+2012,Norway,31.0,31.0
+2013,Norway,33.0,33.0
+2014,Norway,29.0,29.0
+2015,Norway,30.0,30.0
+2016,Norway,29.0,29.0
+2017,Norway,30.0,30.0
+2018,Norway,29.0,29.0
+2019,Norway,28.0,28.0
+2020,Norway,27.0,27.0
+1990,Turkey,51.0,51.0
+1991,Turkey,51.0,51.0
+1992,Turkey,53.0,53.0
+1993,Turkey,56.0,56.0
+1994,Turkey,56.0,56.0
+1995,Turkey,61.0,61.0
+1996,Turkey,66.0,66.0
+1997,Turkey,70.0,70.0
+1998,Turkey,71.0,71.0
+1999,Turkey,70.0,70.0
+2000,Turkey,76.0,76.0
+2001,Turkey,70.0,70.0
+2002,Turkey,74.0,74.0
+2003,Turkey,79.0,79.0
+2004,Turkey,81.0,81.0
+2005,Turkey,84.0,84.0
+2006,Turkey,93.0,93.0
+2007,Turkey,100.0,100.0
+2008,Turkey,98.0,98.0
+2009,Turkey,98.0,98.0
+2010,Turkey,106.0,106.0
+2011,Turkey,112.0,112.0
+2012,Turkey,118.0,118.0
+2013,Turkey,115.0,115.0
+2014,Turkey,119.0,119.0
+2015,Turkey,129.0,129.0
+2016,Turkey,137.0,137.0
+2017,Turkey,147.0,147.0
+2018,Turkey,144.0,144.0
+2019,Turkey,145.0,145.0
+2020,Turkey,141.0,141.0
+1990,Kazakhstan,73.0,73.0
+1991,Kazakhstan,75.0,75.0
+1992,Kazakhstan,79.0,79.0
+1993,Kazakhstan,66.0,66.0
+1994,Kazakhstan,58.0,58.0
+1995,Kazakhstan,52.0,52.0
+1996,Kazakhstan,45.0,45.0
+1997,Kazakhstan,39.0,39.0
+1998,Kazakhstan,39.0,39.0
+1999,Kazakhstan,36.0,36.0
+2000,Kazakhstan,36.0,36.0
+2001,Kazakhstan,35.0,35.0
+2002,Kazakhstan,40.0,40.0
+2003,Kazakhstan,43.0,43.0
+2004,Kazakhstan,51.0,51.0
+2005,Kazakhstan,51.0,51.0
+2006,Kazakhstan,61.0,61.0
+2007,Kazakhstan,66.0,66.0
+2008,Kazakhstan,70.0,70.0
+2009,Kazakhstan,63.0,63.0
+2010,Kazakhstan,69.0,69.0
+2011,Kazakhstan,77.0,77.0
+2012,Kazakhstan,74.0,74.0
+2013,Kazakhstan,82.0,82.0
+2014,Kazakhstan,65.0,65.0
+2015,Kazakhstan,55.0,55.0
+2016,Kazakhstan,64.0,64.0
+2017,Kazakhstan,66.0,66.0
+2018,Kazakhstan,76.0,76.0
+2019,Kazakhstan,77.0,77.0
+2020,Kazakhstan,70.0,70.0
+1990,Russia,879.0,879.0
+1991,Russia,871.0,871.0
+1992,Russia,795.0,795.0
+1993,Russia,751.0,751.0
+1994,Russia,657.0,657.0
+1995,Russia,636.0,636.0
+1996,Russia,630.0,630.0
+1997,Russia,602.0,602.0
+1998,Russia,588.0,588.0
+1999,Russia,609.0,609.0
+2000,Russia,619.0,619.0
+2001,Russia,626.0,626.0
+2002,Russia,623.0,623.0
+2003,Russia,645.0,645.0
+2004,Russia,647.0,647.0
+2005,Russia,651.0,651.0
+2006,Russia,670.0,670.0
+2007,Russia,672.0,672.0
+2008,Russia,688.0,688.0
+2009,Russia,647.0,647.0
+2010,Russia,688.0,688.0
+2011,Russia,711.0,711.0
+2012,Russia,728.0,728.0
+2013,Russia,707.0,707.0
+2014,Russia,707.0,707.0
+2015,Russia,693.0,693.0
+2016,Russia,714.0,714.0
+2017,Russia,729.0,729.0
+2018,Russia,760.0,760.0
+2019,Russia,768.0,768.0
+2020,Russia,731.0,731.0
+1990,Ukraine,252.0,252.0
+1991,Ukraine,252.0,252.0
+1992,Ukraine,220.0,220.0
+1993,Ukraine,195.0,195.0
+1994,Ukraine,166.0,166.0
+1995,Ukraine,164.0,164.0
+1996,Ukraine,150.0,150.0
+1997,Ukraine,144.0,144.0
+1998,Ukraine,136.0,136.0
+1999,Ukraine,135.0,135.0
+2000,Ukraine,134.0,134.0
+2001,Ukraine,134.0,134.0
+2002,Ukraine,136.0,136.0
+2003,Ukraine,141.0,141.0
+2004,Ukraine,142.0,142.0
+2005,Ukraine,141.0,141.0
+2006,Ukraine,137.0,137.0
+2007,Ukraine,139.0,139.0
+2008,Ukraine,135.0,135.0
+2009,Ukraine,114.0,114.0
+2010,Ukraine,132.0,132.0
+2011,Ukraine,126.0,126.0
+2012,Ukraine,122.0,122.0
+2013,Ukraine,116.0,116.0
+2014,Ukraine,106.0,106.0
+2015,Ukraine,93.0,93.0
+2016,Ukraine,92.0,92.0
+2017,Ukraine,89.0,89.0
+2018,Ukraine,93.0,93.0
+2019,Ukraine,89.0,89.0
+2020,Ukraine,86.0,86.0
+1990,Uzbekistan,47.0,47.0
+1991,Uzbekistan,48.0,48.0
+1992,Uzbekistan,45.0,45.0
+1993,Uzbekistan,47.0,47.0
+1994,Uzbekistan,46.0,46.0
+1995,Uzbekistan,43.0,43.0
+1996,Uzbekistan,44.0,44.0
+1997,Uzbekistan,45.0,45.0
+1998,Uzbekistan,47.0,47.0
+1999,Uzbekistan,50.0,50.0
+2000,Uzbekistan,51.0,51.0
+2001,Uzbekistan,51.0,51.0
+2002,Uzbekistan,53.0,53.0
+2003,Uzbekistan,51.0,51.0
+2004,Uzbekistan,51.0,51.0
+2005,Uzbekistan,48.0,48.0
+2006,Uzbekistan,49.0,49.0
+2007,Uzbekistan,48.0,48.0
+2008,Uzbekistan,50.0,50.0
+2009,Uzbekistan,46.0,46.0
+2010,Uzbekistan,49.0,49.0
+2011,Uzbekistan,50.0,50.0
+2012,Uzbekistan,44.0,44.0
+2013,Uzbekistan,44.0,44.0
+2014,Uzbekistan,41.0,41.0
+2015,Uzbekistan,39.0,39.0
+2016,Uzbekistan,42.0,42.0
+2017,Uzbekistan,44.0,44.0
+2018,Uzbekistan,46.0,46.0
+2019,Uzbekistan,47.0,47.0
+2020,Uzbekistan,44.0,44.0
+1990,Argentina,44.0,44.0
+1991,Argentina,46.0,46.0
+1992,Argentina,47.0,47.0
+1993,Argentina,48.0,48.0
+1994,Argentina,52.0,52.0
+1995,Argentina,52.0,52.0
+1996,Argentina,54.0,54.0
+1997,Argentina,56.0,56.0
+1998,Argentina,59.0,59.0
+1999,Argentina,61.0,61.0
+2000,Argentina,61.0,61.0
+2001,Argentina,56.0,56.0
+2002,Argentina,56.0,56.0
+2003,Argentina,60.0,60.0
+2004,Argentina,67.0,67.0
+2005,Argentina,66.0,66.0
+2006,Argentina,70.0,70.0
+2007,Argentina,73.0,73.0
+2008,Argentina,76.0,76.0
+2009,Argentina,70.0,70.0
+2010,Argentina,75.0,75.0
+2011,Argentina,77.0,77.0
+2012,Argentina,80.0,80.0
+2013,Argentina,82.0,82.0
+2014,Argentina,82.0,82.0
+2015,Argentina,83.0,83.0
+2016,Argentina,82.0,82.0
+2017,Argentina,82.0,82.0
+2018,Argentina,80.0,80.0
+2019,Argentina,79.0,79.0
+2020,Argentina,72.0,72.0
+1990,Canada,211.0,211.0
+1991,Canada,210.0,210.0
+1992,Canada,216.0,216.0
+1993,Canada,223.0,223.0
+1994,Canada,231.0,231.0
+1995,Canada,234.0,234.0
+1996,Canada,239.0,239.0
+1997,Canada,242.0,242.0
+1998,Canada,240.0,240.0
+1999,Canada,247.0,247.0
+2000,Canada,254.0,254.0
+2001,Canada,250.0,250.0
+2002,Canada,251.0,251.0
+2003,Canada,264.0,264.0
+2004,Canada,271.0,271.0
+2005,Canada,274.0,274.0
+2006,Canada,278.0,278.0
+2007,Canada,278.0,278.0
+2008,Canada,271.0,271.0
+2009,Canada,261.0,261.0
+2010,Canada,262.0,262.0
+2011,Canada,267.0,267.0
+2012,Canada,269.0,269.0
+2013,Canada,275.0,275.0
+2014,Canada,282.0,282.0
+2015,Canada,283.0,283.0
+2016,Canada,287.0,287.0
+2017,Canada,295.0,295.0
+2018,Canada,298.0,298.0
+2019,Canada,301.0,301.0
+2020,Canada,281.0,281.0
+1990,Chile,14.0,14.0
+1991,Chile,14.0,14.0
+1992,Chile,15.0,15.0
+1993,Chile,16.0,16.0
+1994,Chile,17.0,17.0
+1995,Chile,18.0,18.0
+1996,Chile,20.0,20.0
+1997,Chile,23.0,23.0
+1998,Chile,24.0,24.0
+1999,Chile,25.0,25.0
+2000,Chile,25.0,25.0
+2001,Chile,25.0,25.0
+2002,Chile,26.0,26.0
+2003,Chile,26.0,26.0
+2004,Chile,28.0,28.0
+2005,Chile,28.0,28.0
+2006,Chile,30.0,30.0
+2007,Chile,31.0,31.0
+2008,Chile,30.0,30.0
+2009,Chile,30.0,30.0
+2010,Chile,31.0,31.0
+2011,Chile,34.0,34.0
+2012,Chile,37.0,37.0
+2013,Chile,38.0,38.0
+2014,Chile,35.0,35.0
+2015,Chile,36.0,36.0
+2016,Chile,38.0,38.0
+2017,Chile,38.0,38.0
+2018,Chile,39.0,39.0
+2019,Chile,40.0,40.0
+2020,Chile,38.0,38.0
+1990,Colombia,24.0,24.0
+1991,Colombia,24.0,24.0
+1992,Colombia,25.0,25.0
+1993,Colombia,26.0,26.0
+1994,Colombia,27.0,27.0
+1995,Colombia,28.0,28.0
+1996,Colombia,28.0,28.0
+1997,Colombia,27.0,27.0
+1998,Colombia,29.0,29.0
+1999,Colombia,26.0,26.0
+2000,Colombia,26.0,26.0
+2001,Colombia,26.0,26.0
+2002,Colombia,25.0,25.0
+2003,Colombia,26.0,26.0
+2004,Colombia,26.0,26.0
+2005,Colombia,27.0,27.0
+2006,Colombia,29.0,29.0
+2007,Colombia,28.0,28.0
+2008,Colombia,30.0,30.0
+2009,Colombia,31.0,31.0
+2010,Colombia,30.0,30.0
+2011,Colombia,31.0,31.0
+2012,Colombia,30.0,30.0
+2013,Colombia,40.0,40.0
+2014,Colombia,40.0,40.0
+2015,Colombia,41.0,41.0
+2016,Colombia,42.0,42.0
+2017,Colombia,40.0,40.0
+2018,Colombia,39.0,39.0
+2019,Colombia,41.0,41.0
+2020,Colombia,39.0,39.0
+1990,Mexico,124.0,124.0
+1991,Mexico,130.0,130.0
+1992,Mexico,131.0,131.0
+1993,Mexico,133.0,133.0
+1994,Mexico,136.0,136.0
+1995,Mexico,132.0,132.0
+1996,Mexico,135.0,135.0
+1997,Mexico,142.0,142.0
+1998,Mexico,146.0,146.0
+1999,Mexico,150.0,150.0
+2000,Mexico,151.0,151.0
+2001,Mexico,155.0,155.0
+2002,Mexico,157.0,157.0
+2003,Mexico,168.0,168.0
+2004,Mexico,171.0,171.0
+2005,Mexico,181.0,181.0
+2006,Mexico,184.0,184.0
+2007,Mexico,183.0,183.0
+2008,Mexico,184.0,184.0
+2009,Mexico,180.0,180.0
+2010,Mexico,179.0,179.0
+2011,Mexico,187.0,187.0
+2012,Mexico,192.0,192.0
+2013,Mexico,192.0,192.0
+2014,Mexico,188.0,188.0
+2015,Mexico,185.0,185.0
+2016,Mexico,185.0,185.0
+2017,Mexico,180.0,180.0
+2018,Mexico,181.0,181.0
+2019,Mexico,176.0,176.0
+2020,Mexico,151.0,151.0
+1990,Venezuela,40.0,40.0
+1991,Venezuela,41.0,41.0
+1992,Venezuela,46.0,46.0
+1993,Venezuela,43.0,43.0
+1994,Venezuela,50.0,50.0
+1995,Venezuela,47.0,47.0
+1996,Venezuela,50.0,50.0
+1997,Venezuela,50.0,50.0
+1998,Venezuela,52.0,52.0
+1999,Venezuela,58.0,58.0
+2000,Venezuela,59.0,59.0
+2001,Venezuela,55.0,55.0
+2002,Venezuela,67.0,67.0
+2003,Venezuela,63.0,63.0
+2004,Venezuela,61.0,61.0
+2005,Venezuela,64.0,64.0
+2006,Venezuela,65.0,65.0
+2007,Venezuela,66.0,66.0
+2008,Venezuela,66.0,66.0
+2009,Venezuela,63.0,63.0
+2010,Venezuela,75.0,75.0
+2011,Venezuela,67.0,67.0
+2012,Venezuela,69.0,69.0
+2013,Venezuela,76.0,76.0
+2014,Venezuela,66.0,66.0
+2015,Venezuela,64.0,64.0
+2016,Venezuela,59.0,59.0
+2017,Venezuela,56.0,56.0
+2018,Venezuela,42.0,42.0
+2019,Venezuela,36.0,36.0
+2020,Venezuela,29.0,29.0
+1990,Indonesia,99.0,99.0
+1991,Indonesia,103.0,103.0
+1992,Indonesia,108.0,108.0
+1993,Indonesia,119.0,119.0
+1994,Indonesia,119.0,119.0
+1995,Indonesia,131.0,131.0
+1996,Indonesia,136.0,136.0
+1997,Indonesia,140.0,140.0
+1998,Indonesia,137.0,137.0
+1999,Indonesia,144.0,144.0
+2000,Indonesia,156.0,156.0
+2001,Indonesia,159.0,159.0
+2002,Indonesia,165.0,165.0
+2003,Indonesia,165.0,165.0
+2004,Indonesia,176.0,176.0
+2005,Indonesia,179.0,179.0
+2006,Indonesia,183.0,183.0
+2007,Indonesia,182.0,182.0
+2008,Indonesia,185.0,185.0
+2009,Indonesia,196.0,196.0
+2010,Indonesia,202.0,202.0
+2011,Indonesia,205.0,205.0
+2012,Indonesia,204.0,204.0
+2013,Indonesia,197.0,197.0
+2014,Indonesia,206.0,206.0
+2015,Indonesia,204.0,204.0
+2016,Indonesia,209.0,209.0
+2017,Indonesia,222.0,222.0
+2018,Indonesia,231.0,231.0
+2019,Indonesia,237.0,237.0
+2020,Indonesia,225.0,225.0
+1990,Japan,440.0,440.0
+1991,Japan,445.0,445.0
+1992,Japan,455.0,455.0
+1993,Japan,458.0,458.0
+1994,Japan,483.0,483.0
+1995,Japan,495.0,495.0
+1996,Japan,506.0,506.0
+1997,Japan,511.0,511.0
+1998,Japan,502.0,502.0
+1999,Japan,510.0,510.0
+2000,Japan,520.0,520.0
+2001,Japan,511.0,511.0
+2002,Japan,513.0,513.0
+2003,Japan,509.0,509.0
+2004,Japan,526.0,526.0
+2005,Japan,524.0,524.0
+2006,Japan,524.0,524.0
+2007,Japan,519.0,519.0
+2008,Japan,500.0,500.0
+2009,Japan,477.0,477.0
+2010,Japan,503.0,503.0
+2011,Japan,466.0,466.0
+2012,Japan,456.0,456.0
+2013,Japan,457.0,457.0
+2014,Japan,442.0,442.0
+2015,Japan,434.0,434.0
+2016,Japan,429.0,429.0
+2017,Japan,434.0,434.0
+2018,Japan,428.0,428.0
+2019,Japan,416.0,416.0
+2020,Japan,386.0,386.0
+1990,Malaysia,21.0,21.0
+1991,Malaysia,26.0,26.0
+1992,Malaysia,29.0,29.0
+1993,Malaysia,32.0,32.0
+1994,Malaysia,32.0,32.0
+1995,Malaysia,34.0,34.0
+1996,Malaysia,38.0,38.0
+1997,Malaysia,44.0,44.0
+1998,Malaysia,42.0,42.0
+1999,Malaysia,42.0,42.0
+2000,Malaysia,48.0,48.0
+2001,Malaysia,51.0,51.0
+2002,Malaysia,52.0,52.0
+2003,Malaysia,56.0,56.0
+2004,Malaysia,60.0,60.0
+2005,Malaysia,66.0,66.0
+2006,Malaysia,66.0,66.0
+2007,Malaysia,73.0,73.0
+2008,Malaysia,76.0,76.0
+2009,Malaysia,72.0,72.0
+2010,Malaysia,73.0,73.0
+2011,Malaysia,76.0,76.0
+2012,Malaysia,77.0,77.0
+2013,Malaysia,87.0,87.0
+2014,Malaysia,89.0,89.0
+2015,Malaysia,85.0,85.0
+2016,Malaysia,88.0,88.0
+2017,Malaysia,85.0,85.0
+2018,Malaysia,94.0,94.0
+2019,Malaysia,96.0,96.0
+2020,Malaysia,88.0,88.0
+1990,South Korea,94.0,94.0
+1991,South Korea,101.0,101.0
+1992,South Korea,111.0,111.0
+1993,South Korea,125.0,125.0
+1994,South Korea,133.0,133.0
+1995,South Korea,146.0,146.0
+1996,South Korea,158.0,158.0
+1997,South Korea,172.0,172.0
+1998,South Korea,158.0,158.0
+1999,South Korea,174.0,174.0
+2000,South Korea,190.0,190.0
+2001,South Korea,193.0,193.0
+2002,South Korea,201.0,201.0
+2003,South Korea,206.0,206.0
+2004,South Korea,212.0,212.0
+2005,South Korea,214.0,214.0
+2006,South Korea,218.0,218.0
+2007,South Korea,227.0,227.0
+2008,South Korea,232.0,232.0
+2009,South Korea,234.0,234.0
+2010,South Korea,256.0,256.0
+2011,South Korea,267.0,267.0
+2012,South Korea,271.0,271.0
+2013,South Korea,272.0,272.0
+2014,South Korea,277.0,277.0
+2015,South Korea,283.0,283.0
+2016,South Korea,293.0,293.0
+2017,South Korea,295.0,295.0
+2018,South Korea,296.0,296.0
+2019,South Korea,293.0,293.0
+2020,South Korea,283.0,283.0
+1990,Taiwan,48.0,48.0
+1991,Taiwan,52.0,52.0
+1992,Taiwan,54.0,54.0
+1993,Taiwan,58.0,58.0
+1994,Taiwan,60.0,60.0
+1995,Taiwan,63.0,63.0
+1996,Taiwan,67.0,67.0
+1997,Taiwan,71.0,71.0
+1998,Taiwan,75.0,75.0
+1999,Taiwan,79.0,79.0
+2000,Taiwan,85.0,85.0
+2001,Taiwan,86.0,86.0
+2002,Taiwan,90.0,90.0
+2003,Taiwan,94.0,94.0
+2004,Taiwan,96.0,96.0
+2005,Taiwan,98.0,98.0
+2006,Taiwan,100.0,100.0
+2007,Taiwan,105.0,105.0
+2008,Taiwan,101.0,101.0
+2009,Taiwan,100.0,100.0
+2010,Taiwan,106.0,106.0
+2011,Taiwan,105.0,105.0
+2012,Taiwan,105.0,105.0
+2013,Taiwan,107.0,107.0
+2014,Taiwan,109.0,109.0
+2015,Taiwan,107.0,107.0
+2016,Taiwan,109.0,109.0
+2017,Taiwan,107.0,107.0
+2018,Taiwan,110.0,110.0
+2019,Taiwan,108.0,108.0
+2020,Taiwan,105.0,105.0
+1990,Thailand,42.0,42.0
+1991,Thailand,46.0,46.0
+1992,Thailand,49.0,49.0
+1993,Thailand,51.0,51.0
+1994,Thailand,57.0,57.0
+1995,Thailand,62.0,62.0
+1996,Thailand,69.0,69.0
+1997,Thailand,71.0,71.0
+1998,Thailand,66.0,66.0
+1999,Thailand,71.0,71.0
+2000,Thailand,72.0,72.0
+2001,Thailand,74.0,74.0
+2002,Thailand,82.0,82.0
+2003,Thailand,89.0,89.0
+2004,Thailand,96.0,96.0
+2005,Thailand,99.0,99.0
+2006,Thailand,101.0,101.0
+2007,Thailand,105.0,105.0
+2008,Thailand,108.0,108.0
+2009,Thailand,108.0,108.0
+2010,Thailand,118.0,118.0
+2011,Thailand,118.0,118.0
+2012,Thailand,126.0,126.0
+2013,Thailand,136.0,136.0
+2014,Thailand,136.0,136.0
+2015,Thailand,136.0,136.0
+2016,Thailand,139.0,139.0
+2017,Thailand,139.0,139.0
+2018,Thailand,136.0,136.0
+2019,Thailand,137.0,137.0
+2020,Thailand,125.0,125.0
+1990,India,306.0,306.0
+1991,India,318.0,318.0
+1992,India,330.0,330.0
+1993,India,338.0,338.0
+1994,India,351.0,351.0
+1995,India,371.0,371.0
+1996,India,383.0,383.0
+1997,India,398.0,398.0
+1998,India,407.0,407.0
+1999,India,431.0,431.0
+2000,India,441.0,441.0
+2001,India,448.0,448.0
+2002,India,462.0,462.0
+2003,India,474.0,474.0
+2004,India,500.0,500.0
+2005,India,515.0,515.0
+2006,India,533.0,533.0
+2007,India,568.0,568.0
+2008,India,604.0,604.0
+2009,India,663.0,663.0
+2010,India,701.0,701.0
+2011,India,734.0,734.0
+2012,India,766.0,766.0
+2013,India,779.0,779.0
+2014,India,822.0,822.0
+2015,India,835.0,835.0
+2016,India,852.0,852.0
+2017,India,883.0,883.0
+2018,India,919.0,919.0
+2019,India,940.0,940.0
+2020,India,908.0,908.0
+1990,Australia,86.0,86.0
+1991,Australia,85.0,85.0
+1992,Australia,87.0,87.0
+1993,Australia,91.0,91.0
+1994,Australia,91.0,91.0
+1995,Australia,93.0,93.0
+1996,Australia,99.0,99.0
+1997,Australia,101.0,101.0
+1998,Australia,104.0,104.0
+1999,Australia,106.0,106.0
+2000,Australia,108.0,108.0
+2001,Australia,106.0,106.0
+2002,Australia,109.0,109.0
+2003,Australia,111.0,111.0
+2004,Australia,113.0,113.0
+2005,Australia,113.0,113.0
+2006,Australia,118.0,118.0
+2007,Australia,121.0,121.0
+2008,Australia,126.0,126.0
+2009,Australia,126.0,126.0
+2010,Australia,126.0,126.0
+2011,Australia,127.0,127.0
+2012,Australia,126.0,126.0
+2013,Australia,127.0,127.0
+2014,Australia,127.0,127.0
+2015,Australia,127.0,127.0
+2016,Australia,127.0,127.0
+2017,Australia,128.0,128.0
+2018,Australia,128.0,128.0
+2019,Australia,129.0,129.0
+2020,Australia,126.0,126.0
+1990,New Zealand,14.0,14.0
+1991,New Zealand,14.0,14.0
+1992,New Zealand,14.0,14.0
+1993,New Zealand,15.0,15.0
+1994,New Zealand,15.0,15.0
+1995,New Zealand,15.0,15.0
+1996,New Zealand,16.0,16.0
+1997,New Zealand,16.0,16.0
+1998,New Zealand,16.0,16.0
+1999,New Zealand,17.0,17.0
+2000,New Zealand,17.0,17.0
+2001,New Zealand,17.0,17.0
+2002,New Zealand,17.0,17.0
+2003,New Zealand,17.0,17.0
+2004,New Zealand,18.0,18.0
+2005,New Zealand,17.0,17.0
+2006,New Zealand,17.0,17.0
+2007,New Zealand,17.0,17.0
+2008,New Zealand,18.0,18.0
+2009,New Zealand,18.0,18.0
+2010,New Zealand,19.0,19.0
+2011,New Zealand,18.0,18.0
+2012,New Zealand,19.0,19.0
+2013,New Zealand,19.0,19.0
+2014,New Zealand,21.0,21.0
+2015,New Zealand,21.0,21.0
+2016,New Zealand,21.0,21.0
+2017,New Zealand,21.0,21.0
+2018,New Zealand,20.0,20.0
+2019,New Zealand,21.0,21.0
+2020,New Zealand,21.0,21.0
+1990,Algeria,22.0,22.0
+1991,Algeria,23.0,23.0
+1992,Algeria,24.0,24.0
+1993,Algeria,24.0,24.0
+1994,Algeria,23.0,23.0
+1995,Algeria,24.0,24.0
+1996,Algeria,23.0,23.0
+1997,Algeria,24.0,24.0
+1998,Algeria,25.0,25.0
+1999,Algeria,27.0,27.0
+2000,Algeria,27.0,27.0
+2001,Algeria,27.0,27.0
+2002,Algeria,29.0,29.0
+2003,Algeria,31.0,31.0
+2004,Algeria,31.0,31.0
+2005,Algeria,32.0,32.0
+2006,Algeria,35.0,35.0
+2007,Algeria,37.0,37.0
+2008,Algeria,37.0,37.0
+2009,Algeria,41.0,41.0
+2010,Algeria,42.0,42.0
+2011,Algeria,43.0,43.0
+2012,Algeria,47.0,47.0
+2013,Algeria,49.0,49.0
+2014,Algeria,54.0,54.0
+2015,Algeria,56.0,56.0
+2016,Algeria,56.0,56.0
+2017,Algeria,57.0,57.0
+2018,Algeria,61.0,61.0
+2019,Algeria,65.0,65.0
+2020,Algeria,59.0,59.0
+1990,Egypt,33.0,33.0
+1991,Egypt,33.0,33.0
+1992,Egypt,34.0,34.0
+1993,Egypt,35.0,35.0
+1994,Egypt,34.0,34.0
+1995,Egypt,36.0,36.0
+1996,Egypt,38.0,38.0
+1997,Egypt,40.0,40.0
+1998,Egypt,42.0,42.0
+1999,Egypt,43.0,43.0
+2000,Egypt,41.0,41.0
+2001,Egypt,47.0,47.0
+2002,Egypt,48.0,48.0
+2003,Egypt,50.0,50.0
+2004,Egypt,54.0,54.0
+2005,Egypt,62.0,62.0
+2006,Egypt,66.0,66.0
+2007,Egypt,70.0,70.0
+2008,Egypt,73.0,73.0
+2009,Egypt,75.0,75.0
+2010,Egypt,74.0,74.0
+2011,Egypt,77.0,77.0
+2012,Egypt,79.0,79.0
+2013,Egypt,78.0,78.0
+2014,Egypt,80.0,80.0
+2015,Egypt,81.0,81.0
+2016,Egypt,88.0,88.0
+2017,Egypt,93.0,93.0
+2018,Egypt,96.0,96.0
+2019,Egypt,97.0,97.0
+2020,Egypt,92.0,92.0
+1990,Nigeria,66.0,66.0
+1991,Nigeria,70.0,70.0
+1992,Nigeria,72.0,72.0
+1993,Nigeria,74.0,74.0
+1994,Nigeria,72.0,72.0
+1995,Nigeria,73.0,73.0
+1996,Nigeria,76.0,76.0
+1997,Nigeria,79.0,79.0
+1998,Nigeria,80.0,80.0
+1999,Nigeria,83.0,83.0
+2000,Nigeria,87.0,87.0
+2001,Nigeria,91.0,91.0
+2002,Nigeria,94.0,94.0
+2003,Nigeria,98.0,98.0
+2004,Nigeria,99.0,99.0
+2005,Nigeria,105.0,105.0
+2006,Nigeria,106.0,106.0
+2007,Nigeria,110.0,110.0
+2008,Nigeria,113.0,113.0
+2009,Nigeria,111.0,111.0
+2010,Nigeria,127.0,127.0
+2011,Nigeria,139.0,139.0
+2012,Nigeria,140.0,140.0
+2013,Nigeria,143.0,143.0
+2014,Nigeria,147.0,147.0
+2015,Nigeria,145.0,145.0
+2016,Nigeria,150.0,150.0
+2017,Nigeria,152.0,152.0
+2018,Nigeria,160.0,160.0
+2019,Nigeria,157.0,157.0
+2020,Nigeria,159.0,159.0
+1990,South Africa,90.0,90.0
+1991,South Africa,92.0,92.0
+1992,South Africa,88.0,88.0
+1993,South Africa,94.0,94.0
+1994,South Africa,98.0,98.0
+1995,South Africa,104.0,104.0
+1996,South Africa,107.0,107.0
+1997,South Africa,109.0,109.0
+1998,South Africa,111.0,111.0
+1999,South Africa,109.0,109.0
+2000,South Africa,109.0,109.0
+2001,South Africa,105.0,105.0
+2002,South Africa,100.0,100.0
+2003,South Africa,113.0,113.0
+2004,South Africa,123.0,123.0
+2005,South Africa,118.0,118.0
+2006,South Africa,120.0,120.0
+2007,South Africa,131.0,131.0
+2008,South Africa,142.0,142.0
+2009,South Africa,144.0,144.0
+2010,South Africa,134.0,134.0
+2011,South Africa,137.0,137.0
+2012,South Africa,131.0,131.0
+2013,South Africa,130.0,130.0
+2014,South Africa,138.0,138.0
+2015,South Africa,129.0,129.0
+2016,South Africa,135.0,135.0
+2017,South Africa,136.0,136.0
+2018,South Africa,134.0,134.0
+2019,South Africa,129.0,129.0
+2020,South Africa,124.0,124.0
+1990,Iran,69.0,69.0
+1991,Iran,77.0,77.0
+1992,Iran,81.0,81.0
+1993,Iran,87.0,87.0
+1994,Iran,97.0,97.0
+1995,Iran,101.0,101.0
+1996,Iran,98.0,98.0
+1997,Iran,109.0,109.0
+1998,Iran,111.0,111.0
+1999,Iran,126.0,126.0
+2000,Iran,123.0,123.0
+2001,Iran,133.0,133.0
+2002,Iran,138.0,138.0
+2003,Iran,143.0,143.0
+2004,Iran,156.0,156.0
+2005,Iran,173.0,173.0
+2006,Iran,180.0,180.0
+2007,Iran,191.0,191.0
+2008,Iran,205.0,205.0
+2009,Iran,204.0,204.0
+2010,Iran,204.0,204.0
+2011,Iran,208.0,208.0
+2012,Iran,218.0,218.0
+2013,Iran,222.0,222.0
+2014,Iran,238.0,238.0
+2015,Iran,238.0,238.0
+2016,Iran,246.0,246.0
+2017,Iran,262.0,262.0
+2018,Iran,266.0,266.0
+2019,Iran,269.0,269.0
+2020,Iran,268.0,268.0
+1990,Kuwait,9.0,9.0
+1991,Kuwait,3.0,3.0
+1992,Kuwait,9.0,9.0
+1993,Kuwait,12.0,12.0
+1994,Kuwait,14.0,14.0
+1995,Kuwait,15.0,15.0
+1996,Kuwait,14.0,14.0
+1997,Kuwait,15.0,15.0
+1998,Kuwait,17.0,17.0
+1999,Kuwait,18.0,18.0
+2000,Kuwait,19.0,19.0
+2001,Kuwait,20.0,20.0
+2002,Kuwait,20.0,20.0
+2003,Kuwait,21.0,21.0
+2004,Kuwait,24.0,24.0
+2005,Kuwait,27.0,27.0
+2006,Kuwait,25.0,25.0
+2007,Kuwait,25.0,25.0
+2008,Kuwait,28.0,28.0
+2009,Kuwait,29.0,29.0
+2010,Kuwait,29.0,29.0
+2011,Kuwait,28.0,28.0
+2012,Kuwait,29.0,29.0
+2013,Kuwait,30.0,30.0
+2014,Kuwait,27.0,27.0
+2015,Kuwait,33.0,33.0
+2016,Kuwait,36.0,36.0
+2017,Kuwait,34.0,34.0
+2018,Kuwait,34.0,34.0
+2019,Kuwait,36.0,36.0
+2020,Kuwait,38.0,38.0
+1990,Saudi Arabia,58.0,58.0
+1991,Saudi Arabia,68.0,68.0
+1992,Saudi Arabia,77.0,77.0
+1993,Saudi Arabia,80.0,80.0
+1994,Saudi Arabia,84.0,84.0
+1995,Saudi Arabia,85.0,85.0
+1996,Saudi Arabia,90.0,90.0
+1997,Saudi Arabia,86.0,86.0
+1998,Saudi Arabia,92.0,92.0
+1999,Saudi Arabia,94.0,94.0
+2000,Saudi Arabia,98.0,98.0
+2001,Saudi Arabia,100.0,100.0
+2002,Saudi Arabia,114.0,114.0
+2003,Saudi Arabia,115.0,115.0
+2004,Saudi Arabia,115.0,115.0
+2005,Saudi Arabia,123.0,123.0
+2006,Saudi Arabia,132.0,132.0
+2007,Saudi Arabia,138.0,138.0
+2008,Saudi Arabia,151.0,151.0
+2009,Saudi Arabia,159.0,159.0
+2010,Saudi Arabia,175.0,175.0
+2011,Saudi Arabia,184.0,184.0
+2012,Saudi Arabia,189.0,189.0
+2013,Saudi Arabia,188.0,188.0
+2014,Saudi Arabia,207.0,207.0
+2015,Saudi Arabia,216.0,216.0
+2016,Saudi Arabia,215.0,215.0
+2017,Saudi Arabia,219.0,219.0
+2018,Saudi Arabia,214.0,214.0
+2019,Saudi Arabia,215.0,215.0
+2020,Saudi Arabia,209.0,209.0
+1990,United Arab Emirates,20.0,20.0
+1991,United Arab Emirates,23.0,23.0
+1992,United Arab Emirates,22.0,22.0
+1993,United Arab Emirates,23.0,23.0
+1994,United Arab Emirates,26.0,26.0
+1995,United Arab Emirates,28.0,28.0
+1996,United Arab Emirates,29.0,29.0
+1997,United Arab Emirates,31.0,31.0
+1998,United Arab Emirates,32.0,32.0
+1999,United Arab Emirates,32.0,32.0
+2000,United Arab Emirates,31.0,31.0
+2001,United Arab Emirates,40.0,40.0
+2002,United Arab Emirates,39.0,39.0
+2003,United Arab Emirates,38.0,38.0
+2004,United Arab Emirates,42.0,42.0
+2005,United Arab Emirates,44.0,44.0
+2006,United Arab Emirates,46.0,46.0
+2007,United Arab Emirates,50.0,50.0
+2008,United Arab Emirates,59.0,59.0
+2009,United Arab Emirates,64.0,64.0
+2010,United Arab Emirates,61.0,61.0
+2011,United Arab Emirates,60.0,60.0
+2012,United Arab Emirates,64.0,64.0
+2013,United Arab Emirates,68.0,68.0
+2014,United Arab Emirates,74.0,74.0
+2015,United Arab Emirates,76.0,76.0
+2016,United Arab Emirates,79.0,79.0
+2017,United Arab Emirates,78.0,78.0
+2018,United Arab Emirates,78.0,78.0
+2019,United Arab Emirates,83.0,83.0
+2020,United Arab Emirates,81.0,81.0
+1990,China_Growth_Rate,,
+1991,China_Growth_Rate,-2.9748283752860427,-2.9748283752860427
+1992,China_Growth_Rate,3.4198113207547065,3.4198113207547065
+1993,China_Growth_Rate,5.929304446978345,5.929304446978345
+1994,China_Growth_Rate,4.736275565123793,4.736275565123793
+1995,China_Growth_Rate,7.3997944501541735,7.3997944501541735
+1996,China_Growth_Rate,2.775119617224875,2.775119617224875
+1997,China_Growth_Rate,-0.09310986964617962,-0.09310986964617962
+1998,China_Growth_Rate,0.5591798695246952,0.5591798695246952
+1999,China_Growth_Rate,1.853568118628357,1.853568118628357
+2000,China_Growth_Rate,2.82074613284804,2.82074613284804
+2001,China_Growth_Rate,3.3628318584070893,3.3628318584070893
+2002,China_Growth_Rate,6.678082191780832,6.678082191780832
+2003,China_Growth_Rate,13.96468699839486,13.96468699839486
+2004,China_Growth_Rate,13.732394366197177,13.732394366197177
+2005,China_Growth_Rate,10.340557275541794,10.340557275541794
+2006,China_Growth_Rate,9.427609427609429,9.427609427609429
+2007,China_Growth_Rate,7.641025641025645,7.641025641025645
+2008,China_Growth_Rate,2.667937112910912,2.667937112910912
+2009,China_Growth_Rate,6.589327146171686,6.589327146171686
+2010,China_Growth_Rate,10.404875925119716,10.404875925119716
+2011,China_Growth_Rate,7.373817034700325,7.373817034700325
+2012,China_Growth_Rate,3.5989717223650297,3.5989717223650297
+2013,China_Growth_Rate,3.2258064516129004,3.2258064516129004
+2014,China_Growth_Rate,1.8543956043955978,1.8543956043955978
+2015,China_Growth_Rate,0.9440323668240103,0.9440323668240103
+2016,China_Growth_Rate,-0.5678022712090836,-0.5678022712090836
+2017,China_Growth_Rate,3.1239502855223478,3.1239502855223478
+2018,China_Growth_Rate,4.26710097719869,4.26710097719869
+2019,China_Growth_Rate,3.373945641986875,3.373945641986875
+2020,China_Growth_Rate,2.1758839528558394,2.1758839528558394
+1990,United States_Growth_Rate,,
+1991,United States_Growth_Rate,0.7853403141361293,0.7853403141361293
+1992,United States_Growth_Rate,2.02597402597402,2.02597402597402
+1993,United States_Growth_Rate,1.731160896130346,1.731160896130346
+1994,United States_Growth_Rate,1.9019019019018923,1.9019019019018923
+1995,United States_Growth_Rate,1.3261296660117772,1.3261296660117772
+1996,United States_Growth_Rate,2.1812893843916603,2.1812893843916603
+1997,United States_Growth_Rate,1.0436432637571214,1.0436432637571214
+1998,United States_Growth_Rate,0.8450704225352101,0.8450704225352101
+1999,United States_Growth_Rate,2.7001862197392867,2.7001862197392867
+2000,United States_Growth_Rate,2.855847688123303,2.855847688123303
+2001,United States_Growth_Rate,-1.8951079770824109,-1.8951079770824109
+2002,United States_Growth_Rate,1.3477088948786964,1.3477088948786964
+2003,United States_Growth_Rate,0.26595744680850686,0.26595744680850686
+2004,United States_Growth_Rate,2.0335985853227267,2.0335985853227267
+2005,United States_Growth_Rate,0.5199306759098743,0.5199306759098743
+2006,United States_Growth_Rate,-0.9482758620689702,-0.9482758620689702
+2007,United States_Growth_Rate,1.7406440382941701,1.7406440382941701
+2008,United States_Growth_Rate,-2.566295979469635,-2.566295979469635
+2009,United States_Growth_Rate,-4.960491659350308,-4.960491659350308
+2010,United States_Growth_Rate,2.4018475750577473,2.4018475750577473
+2011,United States_Growth_Rate,-1.1727559765448814,-1.1727559765448814
+2012,United States_Growth_Rate,-1.780009128251936,-1.780009128251936
+2013,United States_Growth_Rate,1.7657992565055736,1.7657992565055736
+2014,United States_Growth_Rate,1.187214611872145,1.187214611872145
+2015,United States_Growth_Rate,-1.0830324909747335,-1.0830324909747335
+2016,United States_Growth_Rate,-1.0948905109489093,-1.0948905109489093
+2017,United States_Growth_Rate,-0.3228782287822862,-0.3228782287822862
+2018,United States_Growth_Rate,3.470615455807491,3.470615455807491
+2019,United States_Growth_Rate,-0.9838998211091243,-0.9838998211091243
+2020,United States_Growth_Rate,-7.5880758807588045,-7.5880758807588045
+1990,Brazil_Growth_Rate,,
+1991,Brazil_Growth_Rate,1.4184397163120588,1.4184397163120588
+1992,Brazil_Growth_Rate,1.3986013986013957,1.3986013986013957
+1993,Brazil_Growth_Rate,2.0689655172413834,2.0689655172413834
+1994,Brazil_Growth_Rate,5.405405405405395,5.405405405405395
+1995,Brazil_Growth_Rate,3.8461538461538547,3.8461538461538547
+1996,Brazil_Growth_Rate,4.938271604938271,4.938271604938271
+1997,Brazil_Growth_Rate,5.294117647058827,5.294117647058827
+1998,Brazil_Growth_Rate,2.2346368715083775,2.2346368715083775
+1999,Brazil_Growth_Rate,2.1857923497267784,2.1857923497267784
+2000,Brazil_Growth_Rate,0.5347593582887722,0.5347593582887722
+2001,Brazil_Growth_Rate,1.5957446808510634,1.5957446808510634
+2002,Brazil_Growth_Rate,2.617801047120416,2.617801047120416
+2003,Brazil_Growth_Rate,1.5306122448979664,1.5306122448979664
+2004,Brazil_Growth_Rate,6.030150753768848,6.030150753768848
+2005,Brazil_Growth_Rate,2.369668246445489,2.369668246445489
+2006,Brazil_Growth_Rate,3.703703703703698,3.703703703703698
+2007,Brazil_Growth_Rate,5.35714285714286,5.35714285714286
+2008,Brazil_Growth_Rate,5.932203389830515,5.932203389830515
+2009,Brazil_Growth_Rate,-3.200000000000003,-3.200000000000003
+2010,Brazil_Growth_Rate,10.330578512396693,10.330578512396693
+2011,Brazil_Growth_Rate,1.4981273408239737,1.4981273408239737
+2012,Brazil_Growth_Rate,4.0590405904058935,4.0590405904058935
+2013,Brazil_Growth_Rate,4.255319148936176,4.255319148936176
+2014,Brazil_Growth_Rate,3.0612244897959107,3.0612244897959107
+2015,Brazil_Growth_Rate,-1.980198019801982,-1.980198019801982
+2016,Brazil_Growth_Rate,-3.367003367003363,-3.367003367003363
+2017,Brazil_Growth_Rate,1.7421602787456525,1.7421602787456525
+2018,Brazil_Growth_Rate,-1.3698630136986356,-1.3698630136986356
+2019,Brazil_Growth_Rate,1.736111111111116,1.736111111111116
+2020,Brazil_Growth_Rate,-2.3890784982935176,-2.3890784982935176
+1990,Belgium_Growth_Rate,,
+1991,Belgium_Growth_Rate,4.166666666666674,4.166666666666674
+1992,Belgium_Growth_Rate,2.0000000000000018,2.0000000000000018
+1993,Belgium_Growth_Rate,-3.9215686274509776,-3.9215686274509776
+1994,Belgium_Growth_Rate,6.1224489795918435,6.1224489795918435
+1995,Belgium_Growth_Rate,1.9230769230769162,1.9230769230769162
+1996,Belgium_Growth_Rate,5.660377358490565,5.660377358490565
+1997,Belgium_Growth_Rate,0.0,0.0
+1998,Belgium_Growth_Rate,1.7857142857142794,1.7857142857142794
+1999,Belgium_Growth_Rate,0.0,0.0
+2000,Belgium_Growth_Rate,1.7543859649122862,1.7543859649122862
+2001,Belgium_Growth_Rate,0.0,0.0
+2002,Belgium_Growth_Rate,-3.4482758620689613,-3.4482758620689613
+2003,Belgium_Growth_Rate,3.571428571428581,3.571428571428581
+2004,Belgium_Growth_Rate,0.0,0.0
+2005,Belgium_Growth_Rate,0.0,0.0
+2006,Belgium_Growth_Rate,-1.7241379310344862,-1.7241379310344862
+2007,Belgium_Growth_Rate,-1.7543859649122862,-1.7543859649122862
+2008,Belgium_Growth_Rate,3.571428571428581,3.571428571428581
+2009,Belgium_Growth_Rate,-3.4482758620689613,-3.4482758620689613
+2010,Belgium_Growth_Rate,7.14285714285714,7.14285714285714
+2011,Belgium_Growth_Rate,-6.666666666666665,-6.666666666666665
+2012,Belgium_Growth_Rate,-5.35714285714286,-5.35714285714286
+2013,Belgium_Growth_Rate,5.660377358490565,5.660377358490565
+2014,Belgium_Growth_Rate,-5.35714285714286,-5.35714285714286
+2015,Belgium_Growth_Rate,-1.8867924528301883,-1.8867924528301883
+2016,Belgium_Growth_Rate,7.692307692307687,7.692307692307687
+2017,Belgium_Growth_Rate,-1.7857142857142905,-1.7857142857142905
+2018,Belgium_Growth_Rate,-3.6363636363636376,-3.6363636363636376
+2019,Belgium_Growth_Rate,3.7735849056603765,3.7735849056603765
+2020,Belgium_Growth_Rate,-7.272727272727275,-7.272727272727275
+1990,Czechia_Growth_Rate,,
+1991,Czechia_Growth_Rate,-9.999999999999998,-9.999999999999998
+1992,Czechia_Growth_Rate,-2.2222222222222254,-2.2222222222222254
+1993,Czechia_Growth_Rate,-2.2727272727272707,-2.2727272727272707
+1994,Czechia_Growth_Rate,-4.651162790697672,-4.651162790697672
+1995,Czechia_Growth_Rate,2.4390243902439046,2.4390243902439046
+1996,Czechia_Growth_Rate,2.3809523809523725,2.3809523809523725
+1997,Czechia_Growth_Rate,0.0,0.0
+1998,Czechia_Growth_Rate,-2.3255813953488413,-2.3255813953488413
+1999,Czechia_Growth_Rate,-7.14285714285714,-7.14285714285714
+2000,Czechia_Growth_Rate,5.128205128205132,5.128205128205132
+2001,Czechia_Growth_Rate,2.4390243902439046,2.4390243902439046
+2002,Czechia_Growth_Rate,2.3809523809523725,2.3809523809523725
+2003,Czechia_Growth_Rate,4.651162790697683,4.651162790697683
+2004,Czechia_Growth_Rate,2.2222222222222143,2.2222222222222143
+2005,Czechia_Growth_Rate,-2.1739130434782594,-2.1739130434782594
+2006,Czechia_Growth_Rate,2.2222222222222143,2.2222222222222143
+2007,Czechia_Growth_Rate,0.0,0.0
+2008,Czechia_Growth_Rate,-2.1739130434782594,-2.1739130434782594
+2009,Czechia_Growth_Rate,-4.444444444444439,-4.444444444444439
+2010,Czechia_Growth_Rate,4.651162790697683,4.651162790697683
+2011,Czechia_Growth_Rate,-4.444444444444439,-4.444444444444439
+2012,Czechia_Growth_Rate,0.0,0.0
+2013,Czechia_Growth_Rate,0.0,0.0
+2014,Czechia_Growth_Rate,-2.3255813953488413,-2.3255813953488413
+2015,Czechia_Growth_Rate,0.0,0.0
+2016,Czechia_Growth_Rate,-2.3809523809523836,-2.3809523809523836
+2017,Czechia_Growth_Rate,4.878048780487809,4.878048780487809
+2018,Czechia_Growth_Rate,0.0,0.0
+2019,Czechia_Growth_Rate,0.0,0.0
+2020,Czechia_Growth_Rate,-9.302325581395355,-9.302325581395355
+1990,France_Growth_Rate,,
+1991,France_Growth_Rate,5.333333333333323,5.333333333333323
+1992,France_Growth_Rate,-1.2658227848101222,-1.2658227848101222
+1993,France_Growth_Rate,1.7094017094017033,1.7094017094017033
+1994,France_Growth_Rate,-2.941176470588236,-2.941176470588236
+1995,France_Growth_Rate,3.8961038961038863,3.8961038961038863
+1996,France_Growth_Rate,4.583333333333339,4.583333333333339
+1997,France_Growth_Rate,-2.7888446215139417,-2.7888446215139417
+1998,France_Growth_Rate,3.2786885245901676,3.2786885245901676
+1999,France_Growth_Rate,0.0,0.0
+2000,France_Growth_Rate,1.1904761904761862,1.1904761904761862
+2001,France_Growth_Rate,1.9607843137254832,1.9607843137254832
+2002,France_Growth_Rate,0.38461538461538325,0.38461538461538325
+2003,France_Growth_Rate,2.6819923371647514,2.6819923371647514
+2004,France_Growth_Rate,1.1194029850746245,1.1194029850746245
+2005,France_Growth_Rate,0.7380073800737907,0.7380073800737907
+2006,France_Growth_Rate,-1.831501831501836,-1.831501831501836
+2007,France_Growth_Rate,-1.1194029850746245,-1.1194029850746245
+2008,France_Growth_Rate,0.37735849056603765,0.37735849056603765
+2009,France_Growth_Rate,-4.135338345864659,-4.135338345864659
+2010,France_Growth_Rate,3.1372549019607954,3.1372549019607954
+2011,France_Growth_Rate,-1.9011406844106515,-1.9011406844106515
+2012,France_Growth_Rate,0.0,0.0
+2013,France_Growth_Rate,0.3875968992248069,0.3875968992248069
+2014,France_Growth_Rate,-3.8610038610038644,-3.8610038610038644
+2015,France_Growth_Rate,1.6064257028112428,1.6064257028112428
+2016,France_Growth_Rate,-1.9762845849802368,-1.9762845849802368
+2017,France_Growth_Rate,-0.40322580645161255,-0.40322580645161255
+2018,France_Growth_Rate,-0.4048582995951455,-0.4048582995951455
+2019,France_Growth_Rate,-1.2195121951219523,-1.2195121951219523
+2020,France_Growth_Rate,-10.699588477366252,-10.699588477366252
+1990,Germany_Growth_Rate,,
+1991,Germany_Growth_Rate,-1.9943019943019946,-1.9943019943019946
+1992,Germany_Growth_Rate,-1.744186046511631,-1.744186046511631
+1993,Germany_Growth_Rate,-0.887573964497046,-0.887573964497046
+1994,Germany_Growth_Rate,-0.5970149253731294,-0.5970149253731294
+1995,Germany_Growth_Rate,0.9009009009008917,0.9009009009008917
+1996,Germany_Growth_Rate,3.571428571428581,3.571428571428581
+1997,Germany_Growth_Rate,-0.8620689655172376,-0.8620689655172376
+1998,Germany_Growth_Rate,-0.5797101449275366,-0.5797101449275366
+1999,Germany_Growth_Rate,-2.3323615160349864,-2.3323615160349864
+2000,Germany_Growth_Rate,0.5970149253731405,0.5970149253731405
+2001,Germany_Growth_Rate,2.9673590504450953,2.9673590504450953
+2002,Germany_Growth_Rate,-2.3054755043227626,-2.3054755043227626
+2003,Germany_Growth_Rate,-0.2949852507374673,-0.2949852507374673
+2004,Germany_Growth_Rate,0.8875739644970349,0.8875739644970349
+2005,Germany_Growth_Rate,-0.5865102639296182,-0.5865102639296182
+2006,Germany_Growth_Rate,2.9498525073746285,2.9498525073746285
+2007,Germany_Growth_Rate,-5.157593123209169,-5.157593123209169
+2008,Germany_Growth_Rate,1.2084592145015005,1.2084592145015005
+2009,Germany_Growth_Rate,-6.567164179104479,-6.567164179104479
+2010,Germany_Growth_Rate,5.4313099041533475,5.4313099041533475
+2011,Germany_Growth_Rate,-5.151515151515151,-5.151515151515151
+2012,Germany_Growth_Rate,0.6389776357827559,0.6389776357827559
+2013,Germany_Growth_Rate,2.2222222222222143,2.2222222222222143
+2014,Germany_Growth_Rate,-4.6583850931677055,-4.6583850931677055
+2015,Germany_Growth_Rate,0.6514657980456029,0.6514657980456029
+2016,Germany_Growth_Rate,0.3236245954692629,0.3236245954692629
+2017,Germany_Growth_Rate,0.3225806451612856,0.3225806451612856
+2018,Germany_Growth_Rate,-2.893890675241162,-2.893890675241162
+2019,Germany_Growth_Rate,-2.6490066225165587,-2.6490066225165587
+2020,Germany_Growth_Rate,-6.4625850340136015,-6.4625850340136015
+1990,Italy_Growth_Rate,,
+1991,Italy_Growth_Rate,2.0408163265306145,2.0408163265306145
+1992,Italy_Growth_Rate,-0.666666666666671,-0.666666666666671
+1993,Italy_Growth_Rate,0.0,0.0
+1994,Italy_Growth_Rate,-1.342281879194629,-1.342281879194629
+1995,Italy_Growth_Rate,8.163265306122458,8.163265306122458
+1996,Italy_Growth_Rate,0.0,0.0
+1997,Italy_Growth_Rate,1.8867924528301883,1.8867924528301883
+1998,Italy_Growth_Rate,2.4691358024691468,2.4691358024691468
+1999,Italy_Growth_Rate,1.8072289156626509,1.8072289156626509
+2000,Italy_Growth_Rate,1.775147928994092,1.775147928994092
+2001,Italy_Growth_Rate,0.0,0.0
+2002,Italy_Growth_Rate,1.1627906976744207,1.1627906976744207
+2003,Italy_Growth_Rate,4.597701149425282,4.597701149425282
+2004,Italy_Growth_Rate,0.5494505494505475,0.5494505494505475
+2005,Italy_Growth_Rate,2.1857923497267784,2.1857923497267784
+2006,Italy_Growth_Rate,-1.0695187165775444,-1.0695187165775444
+2007,Italy_Growth_Rate,-0.540540540540535,-0.540540540540535
+2008,Italy_Growth_Rate,-1.0869565217391353,-1.0869565217391353
+2009,Italy_Growth_Rate,-6.593406593406592,-6.593406593406592
+2010,Italy_Growth_Rate,2.35294117647058,2.35294117647058
+2011,Italy_Growth_Rate,-3.4482758620689613,-3.4482758620689613
+2012,Italy_Growth_Rate,-3.57142857142857,-3.57142857142857
+2013,Italy_Growth_Rate,-3.703703703703709,-3.703703703703709
+2014,Italy_Growth_Rate,-5.769230769230771,-5.769230769230771
+2015,Italy_Growth_Rate,4.081632653061229,4.081632653061229
+2016,Italy_Growth_Rate,-1.3071895424836555,-1.3071895424836555
+2017,Italy_Growth_Rate,1.9867549668874274,1.9867549668874274
+2018,Italy_Growth_Rate,-1.9480519480519431,-1.9480519480519431
+2019,Italy_Growth_Rate,-1.3245033112582738,-1.3245033112582738
+2020,Italy_Growth_Rate,-8.053691275167784,-8.053691275167784
+1990,Netherlands_Growth_Rate,,
+1991,Netherlands_Growth_Rate,2.9850746268656803,2.9850746268656803
+1992,Netherlands_Growth_Rate,0.0,0.0
+1993,Netherlands_Growth_Rate,1.449275362318847,1.449275362318847
+1994,Netherlands_Growth_Rate,0.0,0.0
+1995,Netherlands_Growth_Rate,4.285714285714293,4.285714285714293
+1996,Netherlands_Growth_Rate,5.47945205479452,5.47945205479452
+1997,Netherlands_Growth_Rate,-2.5974025974025983,-2.5974025974025983
+1998,Netherlands_Growth_Rate,0.0,0.0
+1999,Netherlands_Growth_Rate,-1.3333333333333308,-1.3333333333333308
+2000,Netherlands_Growth_Rate,1.3513513513513598,1.3513513513513598
+2001,Netherlands_Growth_Rate,2.6666666666666616,2.6666666666666616
+2002,Netherlands_Growth_Rate,1.298701298701288,1.298701298701288
+2003,Netherlands_Growth_Rate,2.564102564102555,2.564102564102555
+2004,Netherlands_Growth_Rate,1.2499999999999956,1.2499999999999956
+2005,Netherlands_Growth_Rate,-1.2345679012345734,-1.2345679012345734
+2006,Netherlands_Growth_Rate,-1.2499999999999956,-1.2499999999999956
+2007,Netherlands_Growth_Rate,0.0,0.0
+2008,Netherlands_Growth_Rate,-1.2658227848101222,-1.2658227848101222
+2009,Netherlands_Growth_Rate,-1.2820512820512775,-1.2820512820512775
+2010,Netherlands_Growth_Rate,7.792207792207795,7.792207792207795
+2011,Netherlands_Growth_Rate,-7.2289156626506035,-7.2289156626506035
+2012,Netherlands_Growth_Rate,0.0,0.0
+2013,Netherlands_Growth_Rate,-2.5974025974025983,-2.5974025974025983
+2014,Netherlands_Growth_Rate,-5.333333333333334,-5.333333333333334
+2015,Netherlands_Growth_Rate,1.4084507042253502,1.4084507042253502
+2016,Netherlands_Growth_Rate,2.777777777777768,2.777777777777768
+2017,Netherlands_Growth_Rate,0.0,0.0
+2018,Netherlands_Growth_Rate,-1.3513513513513487,-1.3513513513513487
+2019,Netherlands_Growth_Rate,-1.3698630136986356,-1.3698630136986356
+2020,Netherlands_Growth_Rate,-2.777777777777779,-2.777777777777779
+1990,Poland_Growth_Rate,,
+1991,Poland_Growth_Rate,-1.9417475728155331,-1.9417475728155331
+1992,Poland_Growth_Rate,-1.980198019801982,-1.980198019801982
+1993,Poland_Growth_Rate,2.020202020202011,2.020202020202011
+1994,Poland_Growth_Rate,-4.950495049504955,-4.950495049504955
+1995,Poland_Growth_Rate,3.125,3.125
+1996,Poland_Growth_Rate,5.050505050505061,5.050505050505061
+1997,Poland_Growth_Rate,-1.9230769230769273,-1.9230769230769273
+1998,Poland_Growth_Rate,-6.8627450980392135,-6.8627450980392135
+1999,Poland_Growth_Rate,-2.1052631578947323,-2.1052631578947323
+2000,Poland_Growth_Rate,-4.3010752688172005,-4.3010752688172005
+2001,Poland_Growth_Rate,1.1235955056179803,1.1235955056179803
+2002,Poland_Growth_Rate,-1.1111111111111072,-1.1111111111111072
+2003,Poland_Growth_Rate,2.2471910112359605,2.2471910112359605
+2004,Poland_Growth_Rate,0.0,0.0
+2005,Poland_Growth_Rate,1.098901098901095,1.098901098901095
+2006,Poland_Growth_Rate,5.434782608695654,5.434782608695654
+2007,Poland_Growth_Rate,0.0,0.0
+2008,Poland_Growth_Rate,1.0309278350515427,1.0309278350515427
+2009,Poland_Growth_Rate,-4.081632653061229,-4.081632653061229
+2010,Poland_Growth_Rate,7.446808510638303,7.446808510638303
+2011,Poland_Growth_Rate,0.0,0.0
+2012,Poland_Growth_Rate,-2.970297029702973,-2.970297029702973
+2013,Poland_Growth_Rate,0.0,0.0
+2014,Poland_Growth_Rate,-3.0612244897959218,-3.0612244897959218
+2015,Poland_Growth_Rate,1.0526315789473717,1.0526315789473717
+2016,Poland_Growth_Rate,4.166666666666674,4.166666666666674
+2017,Poland_Growth_Rate,4.0000000000000036,4.0000000000000036
+2018,Poland_Growth_Rate,1.9230769230769162,1.9230769230769162
+2019,Poland_Growth_Rate,-2.8301886792452824,-2.8301886792452824
+2020,Poland_Growth_Rate,-5.825242718446599,-5.825242718446599
+1990,Portugal_Growth_Rate,,
+1991,Portugal_Growth_Rate,0.0,0.0
+1992,Portugal_Growth_Rate,5.882352941176472,5.882352941176472
+1993,Portugal_Growth_Rate,0.0,0.0
+1994,Portugal_Growth_Rate,0.0,0.0
+1995,Portugal_Growth_Rate,11.111111111111116,11.111111111111116
+1996,Portugal_Growth_Rate,0.0,0.0
+1997,Portugal_Growth_Rate,5.000000000000004,5.000000000000004
+1998,Portugal_Growth_Rate,9.523809523809534,9.523809523809534
+1999,Portugal_Growth_Rate,4.347826086956519,4.347826086956519
+2000,Portugal_Growth_Rate,4.166666666666674,4.166666666666674
+2001,Portugal_Growth_Rate,0.0,0.0
+2002,Portugal_Growth_Rate,4.0000000000000036,4.0000000000000036
+2003,Portugal_Growth_Rate,-3.8461538461538436,-3.8461538461538436
+2004,Portugal_Growth_Rate,4.0000000000000036,4.0000000000000036
+2005,Portugal_Growth_Rate,0.0,0.0
+2006,Portugal_Growth_Rate,-3.8461538461538436,-3.8461538461538436
+2007,Portugal_Growth_Rate,0.0,0.0
+2008,Portugal_Growth_Rate,0.0,0.0
+2009,Portugal_Growth_Rate,-4.0000000000000036,-4.0000000000000036
+2010,Portugal_Growth_Rate,-4.1666666666666625,-4.1666666666666625
+2011,Portugal_Growth_Rate,0.0,0.0
+2012,Portugal_Growth_Rate,-8.695652173913048,-8.695652173913048
+2013,Portugal_Growth_Rate,4.761904761904767,4.761904761904767
+2014,Portugal_Growth_Rate,-4.545454545454541,-4.545454545454541
+2015,Portugal_Growth_Rate,4.761904761904767,4.761904761904767
+2016,Portugal_Growth_Rate,0.0,0.0
+2017,Portugal_Growth_Rate,4.545454545454541,4.545454545454541
+2018,Portugal_Growth_Rate,-4.347826086956519,-4.347826086956519
+2019,Portugal_Growth_Rate,0.0,0.0
+2020,Portugal_Growth_Rate,-9.090909090909093,-9.090909090909093
+1990,Romania_Growth_Rate,,
+1991,Romania_Growth_Rate,-17.741935483870964,-17.741935483870964
+1992,Romania_Growth_Rate,-9.80392156862745,-9.80392156862745
+1993,Romania_Growth_Rate,0.0,0.0
+1994,Romania_Growth_Rate,-6.521739130434778,-6.521739130434778
+1995,Romania_Growth_Rate,9.302325581395344,9.302325581395344
+1996,Romania_Growth_Rate,2.127659574468077,2.127659574468077
+1997,Romania_Growth_Rate,-6.25,-6.25
+1998,Romania_Growth_Rate,-8.888888888888891,-8.888888888888891
+1999,Romania_Growth_Rate,-12.195121951219512,-12.195121951219512
+2000,Romania_Growth_Rate,0.0,0.0
+2001,Romania_Growth_Rate,2.777777777777768,2.777777777777768
+2002,Romania_Growth_Rate,2.7027027027026973,2.7027027027026973
+2003,Romania_Growth_Rate,5.263157894736836,5.263157894736836
+2004,Romania_Growth_Rate,-2.500000000000002,-2.500000000000002
+2005,Romania_Growth_Rate,0.0,0.0
+2006,Romania_Growth_Rate,2.564102564102555,2.564102564102555
+2007,Romania_Growth_Rate,0.0,0.0
+2008,Romania_Growth_Rate,0.0,0.0
+2009,Romania_Growth_Rate,-12.5,-12.5
+2010,Romania_Growth_Rate,0.0,0.0
+2011,Romania_Growth_Rate,2.857142857142847,2.857142857142847
+2012,Romania_Growth_Rate,-2.777777777777779,-2.777777777777779
+2013,Romania_Growth_Rate,-8.571428571428575,-8.571428571428575
+2014,Romania_Growth_Rate,0.0,0.0
+2015,Romania_Growth_Rate,0.0,0.0
+2016,Romania_Growth_Rate,0.0,0.0
+2017,Romania_Growth_Rate,3.125,3.125
+2018,Romania_Growth_Rate,3.0303030303030276,3.0303030303030276
+2019,Romania_Growth_Rate,-2.941176470588236,-2.941176470588236
+2020,Romania_Growth_Rate,-3.0303030303030276,-3.0303030303030276
+1990,Spain_Growth_Rate,,
+1991,Spain_Growth_Rate,3.3333333333333437,3.3333333333333437
+1992,Spain_Growth_Rate,2.1505376344086002,2.1505376344086002
+1993,Spain_Growth_Rate,-4.210526315789476,-4.210526315789476
+1994,Spain_Growth_Rate,5.494505494505497,5.494505494505497
+1995,Spain_Growth_Rate,5.208333333333326,5.208333333333326
+1996,Spain_Growth_Rate,-1.980198019801982,-1.980198019801982
+1997,Spain_Growth_Rate,7.070707070707072,7.070707070707072
+1998,Spain_Growth_Rate,4.716981132075482,4.716981132075482
+1999,Spain_Growth_Rate,4.504504504504503,4.504504504504503
+2000,Spain_Growth_Rate,4.31034482758621,4.31034482758621
+2001,Spain_Growth_Rate,3.305785123966931,3.305785123966931
+2002,Spain_Growth_Rate,2.400000000000002,2.400000000000002
+2003,Spain_Growth_Rate,3.90625,3.90625
+2004,Spain_Growth_Rate,4.511278195488733,4.511278195488733
+2005,Spain_Growth_Rate,2.158273381294973,2.158273381294973
+2006,Spain_Growth_Rate,-0.7042253521126751,-0.7042253521126751
+2007,Spain_Growth_Rate,1.4184397163120588,1.4184397163120588
+2008,Spain_Growth_Rate,-2.7972027972028024,-2.7972027972028024
+2009,Spain_Growth_Rate,-8.633093525179858,-8.633093525179858
+2010,Spain_Growth_Rate,0.0,0.0
+2011,Spain_Growth_Rate,-1.5748031496062964,-1.5748031496062964
+2012,Spain_Growth_Rate,-0.8000000000000007,-0.8000000000000007
+2013,Spain_Growth_Rate,-6.451612903225811,-6.451612903225811
+2014,Spain_Growth_Rate,-2.5862068965517238,-2.5862068965517238
+2015,Spain_Growth_Rate,3.539823008849563,3.539823008849563
+2016,Spain_Growth_Rate,0.8547008547008517,0.8547008547008517
+2017,Spain_Growth_Rate,5.932203389830515,5.932203389830515
+2018,Spain_Growth_Rate,-0.8000000000000007,-0.8000000000000007
+2019,Spain_Growth_Rate,-2.4193548387096753,-2.4193548387096753
+2020,Spain_Growth_Rate,-11.570247933884293,-11.570247933884293
+1990,Sweden_Growth_Rate,,
+1991,Sweden_Growth_Rate,4.255319148936176,4.255319148936176
+1992,Sweden_Growth_Rate,-4.081632653061229,-4.081632653061229
+1993,Sweden_Growth_Rate,-2.127659574468088,-2.127659574468088
+1994,Sweden_Growth_Rate,8.695652173913038,8.695652173913038
+1995,Sweden_Growth_Rate,0.0,0.0
+1996,Sweden_Growth_Rate,2.0000000000000018,2.0000000000000018
+1997,Sweden_Growth_Rate,-1.9607843137254943,-1.9607843137254943
+1998,Sweden_Growth_Rate,2.0000000000000018,2.0000000000000018
+1999,Sweden_Growth_Rate,-1.9607843137254943,-1.9607843137254943
+2000,Sweden_Growth_Rate,-4.0000000000000036,-4.0000000000000036
+2001,Sweden_Growth_Rate,4.166666666666674,4.166666666666674
+2002,Sweden_Growth_Rate,4.0000000000000036,4.0000000000000036
+2003,Sweden_Growth_Rate,-1.9230769230769273,-1.9230769230769273
+2004,Sweden_Growth_Rate,3.9215686274509887,3.9215686274509887
+2005,Sweden_Growth_Rate,-1.8867924528301883,-1.8867924528301883
+2006,Sweden_Growth_Rate,-3.8461538461538436,-3.8461538461538436
+2007,Sweden_Growth_Rate,0.0,0.0
+2008,Sweden_Growth_Rate,0.0,0.0
+2009,Sweden_Growth_Rate,-9.999999999999998,-9.999999999999998
+2010,Sweden_Growth_Rate,13.33333333333333,13.33333333333333
+2011,Sweden_Growth_Rate,-1.9607843137254943,-1.9607843137254943
+2012,Sweden_Growth_Rate,0.0,0.0
+2013,Sweden_Growth_Rate,-2.0000000000000018,-2.0000000000000018
+2014,Sweden_Growth_Rate,-2.0408163265306145,-2.0408163265306145
+2015,Sweden_Growth_Rate,-8.333333333333337,-8.333333333333337
+2016,Sweden_Growth_Rate,9.090909090909083,9.090909090909083
+2017,Sweden_Growth_Rate,2.083333333333326,2.083333333333326
+2018,Sweden_Growth_Rate,2.0408163265306145,2.0408163265306145
+2019,Sweden_Growth_Rate,-2.0000000000000018,-2.0000000000000018
+2020,Sweden_Growth_Rate,-4.081632653061229,-4.081632653061229
+1990,United Kingdom_Growth_Rate,,
+1991,United Kingdom_Growth_Rate,3.398058252427183,3.398058252427183
+1992,United Kingdom_Growth_Rate,0.0,0.0
+1993,United Kingdom_Growth_Rate,0.9389671361502261,0.9389671361502261
+1994,United Kingdom_Growth_Rate,0.46511627906977715,0.46511627906977715
+1995,United Kingdom_Growth_Rate,0.4629629629629539,0.4629629629629539
+1996,United Kingdom_Growth_Rate,4.147465437788012,4.147465437788012
+1997,United Kingdom_Growth_Rate,-3.0973451327433676,-3.0973451327433676
+1998,United Kingdom_Growth_Rate,0.9132420091324311,0.9132420091324311
+1999,United Kingdom_Growth_Rate,0.4524886877828038,0.4524886877828038
+2000,United Kingdom_Growth_Rate,0.45045045045044585,0.45045045045044585
+2001,United Kingdom_Growth_Rate,0.4484304932735439,0.4484304932735439
+2002,United Kingdom_Growth_Rate,-1.3392857142857095,-1.3392857142857095
+2003,United Kingdom_Growth_Rate,1.3574660633484115,1.3574660633484115
+2004,United Kingdom_Growth_Rate,-0.8928571428571397,-0.8928571428571397
+2005,United Kingdom_Growth_Rate,0.45045045045044585,0.45045045045044585
+2006,United Kingdom_Growth_Rate,-1.7937219730941756,-1.7937219730941756
+2007,United Kingdom_Growth_Rate,-3.65296803652968,-3.65296803652968
+2008,United Kingdom_Growth_Rate,-0.9478672985781977,-0.9478672985781977
+2009,United Kingdom_Growth_Rate,-6.2200956937799035,-6.2200956937799035
+2010,United Kingdom_Growth_Rate,4.081632653061229,4.081632653061229
+2011,United Kingdom_Growth_Rate,-7.352941176470584,-7.352941176470584
+2012,United Kingdom_Growth_Rate,2.645502645502651,2.645502645502651
+2013,United Kingdom_Growth_Rate,-1.546391752577314,-1.546391752577314
+2014,United Kingdom_Growth_Rate,-5.759162303664922,-5.759162303664922
+2015,United Kingdom_Growth_Rate,1.1111111111111072,1.1111111111111072
+2016,United Kingdom_Growth_Rate,-1.6483516483516536,-1.6483516483516536
+2017,United Kingdom_Growth_Rate,-1.6759776536312887,-1.6759776536312887
+2018,United Kingdom_Growth_Rate,-0.5681818181818232,-0.5681818181818232
+2019,United Kingdom_Growth_Rate,-2.857142857142858,-2.857142857142858
+2020,United Kingdom_Growth_Rate,-9.411764705882353,-9.411764705882353
+1990,Norway_Growth_Rate,,
+1991,Norway_Growth_Rate,4.761904761904767,4.761904761904767
+1992,Norway_Growth_Rate,0.0,0.0
+1993,Norway_Growth_Rate,9.090909090909083,9.090909090909083
+1994,Norway_Growth_Rate,-4.1666666666666625,-4.1666666666666625
+1995,Norway_Growth_Rate,4.347826086956519,4.347826086956519
+1996,Norway_Growth_Rate,-4.1666666666666625,-4.1666666666666625
+1997,Norway_Growth_Rate,4.347826086956519,4.347826086956519
+1998,Norway_Growth_Rate,4.166666666666674,4.166666666666674
+1999,Norway_Growth_Rate,4.0000000000000036,4.0000000000000036
+2000,Norway_Growth_Rate,0.0,0.0
+2001,Norway_Growth_Rate,3.8461538461538547,3.8461538461538547
+2002,Norway_Growth_Rate,-7.4074074074074066,-7.4074074074074066
+2003,Norway_Growth_Rate,8.000000000000007,8.000000000000007
+2004,Norway_Growth_Rate,0.0,0.0
+2005,Norway_Growth_Rate,0.0,0.0
+2006,Norway_Growth_Rate,0.0,0.0
+2007,Norway_Growth_Rate,3.703703703703698,3.703703703703698
+2008,Norway_Growth_Rate,14.28571428571428,14.28571428571428
+2009,Norway_Growth_Rate,0.0,0.0
+2010,Norway_Growth_Rate,3.125,3.125
+2011,Norway_Growth_Rate,-15.151515151515149,-15.151515151515149
+2012,Norway_Growth_Rate,10.71428571428572,10.71428571428572
+2013,Norway_Growth_Rate,6.451612903225801,6.451612903225801
+2014,Norway_Growth_Rate,-12.121212121212121,-12.121212121212121
+2015,Norway_Growth_Rate,3.4482758620689724,3.4482758620689724
+2016,Norway_Growth_Rate,-3.3333333333333326,-3.3333333333333326
+2017,Norway_Growth_Rate,3.4482758620689724,3.4482758620689724
+2018,Norway_Growth_Rate,-3.3333333333333326,-3.3333333333333326
+2019,Norway_Growth_Rate,-3.4482758620689613,-3.4482758620689613
+2020,Norway_Growth_Rate,-3.57142857142857,-3.57142857142857
+1990,Turkey_Growth_Rate,,
+1991,Turkey_Growth_Rate,0.0,0.0
+1992,Turkey_Growth_Rate,3.9215686274509887,3.9215686274509887
+1993,Turkey_Growth_Rate,5.660377358490565,5.660377358490565
+1994,Turkey_Growth_Rate,0.0,0.0
+1995,Turkey_Growth_Rate,8.92857142857142,8.92857142857142
+1996,Turkey_Growth_Rate,8.196721311475418,8.196721311475418
+1997,Turkey_Growth_Rate,6.060606060606055,6.060606060606055
+1998,Turkey_Growth_Rate,1.4285714285714235,1.4285714285714235
+1999,Turkey_Growth_Rate,-1.4084507042253502,-1.4084507042253502
+2000,Turkey_Growth_Rate,8.571428571428562,8.571428571428562
+2001,Turkey_Growth_Rate,-7.8947368421052655,-7.8947368421052655
+2002,Turkey_Growth_Rate,5.714285714285716,5.714285714285716
+2003,Turkey_Growth_Rate,6.756756756756754,6.756756756756754
+2004,Turkey_Growth_Rate,2.5316455696202445,2.5316455696202445
+2005,Turkey_Growth_Rate,3.703703703703698,3.703703703703698
+2006,Turkey_Growth_Rate,10.71428571428572,10.71428571428572
+2007,Turkey_Growth_Rate,7.526881720430101,7.526881720430101
+2008,Turkey_Growth_Rate,-2.0000000000000018,-2.0000000000000018
+2009,Turkey_Growth_Rate,0.0,0.0
+2010,Turkey_Growth_Rate,8.163265306122458,8.163265306122458
+2011,Turkey_Growth_Rate,5.660377358490565,5.660377358490565
+2012,Turkey_Growth_Rate,5.35714285714286,5.35714285714286
+2013,Turkey_Growth_Rate,-2.5423728813559365,-2.5423728813559365
+2014,Turkey_Growth_Rate,3.4782608695652195,3.4782608695652195
+2015,Turkey_Growth_Rate,8.403361344537807,8.403361344537807
+2016,Turkey_Growth_Rate,6.20155038759691,6.20155038759691
+2017,Turkey_Growth_Rate,7.299270072992692,7.299270072992692
+2018,Turkey_Growth_Rate,-2.0408163265306145,-2.0408163265306145
+2019,Turkey_Growth_Rate,0.694444444444442,0.694444444444442
+2020,Turkey_Growth_Rate,-2.758620689655178,-2.758620689655178
+1990,Kazakhstan_Growth_Rate,,
+1991,Kazakhstan_Growth_Rate,2.7397260273972712,2.7397260273972712
+1992,Kazakhstan_Growth_Rate,5.333333333333323,5.333333333333323
+1993,Kazakhstan_Growth_Rate,-16.455696202531644,-16.455696202531644
+1994,Kazakhstan_Growth_Rate,-12.121212121212121,-12.121212121212121
+1995,Kazakhstan_Growth_Rate,-10.344827586206895,-10.344827586206895
+1996,Kazakhstan_Growth_Rate,-13.461538461538458,-13.461538461538458
+1997,Kazakhstan_Growth_Rate,-13.33333333333333,-13.33333333333333
+1998,Kazakhstan_Growth_Rate,0.0,0.0
+1999,Kazakhstan_Growth_Rate,-7.692307692307687,-7.692307692307687
+2000,Kazakhstan_Growth_Rate,0.0,0.0
+2001,Kazakhstan_Growth_Rate,-2.777777777777779,-2.777777777777779
+2002,Kazakhstan_Growth_Rate,14.28571428571428,14.28571428571428
+2003,Kazakhstan_Growth_Rate,7.499999999999996,7.499999999999996
+2004,Kazakhstan_Growth_Rate,18.60465116279071,18.60465116279071
+2005,Kazakhstan_Growth_Rate,0.0,0.0
+2006,Kazakhstan_Growth_Rate,19.6078431372549,19.6078431372549
+2007,Kazakhstan_Growth_Rate,8.196721311475418,8.196721311475418
+2008,Kazakhstan_Growth_Rate,6.060606060606055,6.060606060606055
+2009,Kazakhstan_Growth_Rate,-9.999999999999998,-9.999999999999998
+2010,Kazakhstan_Growth_Rate,9.523809523809534,9.523809523809534
+2011,Kazakhstan_Growth_Rate,11.594202898550732,11.594202898550732
+2012,Kazakhstan_Growth_Rate,-3.8961038961038974,-3.8961038961038974
+2013,Kazakhstan_Growth_Rate,10.81081081081081,10.81081081081081
+2014,Kazakhstan_Growth_Rate,-20.731707317073166,-20.731707317073166
+2015,Kazakhstan_Growth_Rate,-15.384615384615385,-15.384615384615385
+2016,Kazakhstan_Growth_Rate,16.36363636363636,16.36363636363636
+2017,Kazakhstan_Growth_Rate,3.125,3.125
+2018,Kazakhstan_Growth_Rate,15.15151515151516,15.15151515151516
+2019,Kazakhstan_Growth_Rate,1.3157894736842035,1.3157894736842035
+2020,Kazakhstan_Growth_Rate,-9.090909090909093,-9.090909090909093
+1990,Russia_Growth_Rate,,
+1991,Russia_Growth_Rate,-0.9101251422070522,-0.9101251422070522
+1992,Russia_Growth_Rate,-8.7256027554535,-8.7256027554535
+1993,Russia_Growth_Rate,-5.534591194968552,-5.534591194968552
+1994,Russia_Growth_Rate,-12.51664447403462,-12.51664447403462
+1995,Russia_Growth_Rate,-3.1963470319634757,-3.1963470319634757
+1996,Russia_Growth_Rate,-0.9433962264150941,-0.9433962264150941
+1997,Russia_Growth_Rate,-4.444444444444439,-4.444444444444439
+1998,Russia_Growth_Rate,-2.3255813953488413,-2.3255813953488413
+1999,Russia_Growth_Rate,3.571428571428581,3.571428571428581
+2000,Russia_Growth_Rate,1.6420361247947435,1.6420361247947435
+2001,Russia_Growth_Rate,1.1308562197092087,1.1308562197092087
+2002,Russia_Growth_Rate,-0.4792332268370614,-0.4792332268370614
+2003,Russia_Growth_Rate,3.5313001605136396,3.5313001605136396
+2004,Russia_Growth_Rate,0.31007751937983663,0.31007751937983663
+2005,Russia_Growth_Rate,0.6182380216383399,0.6182380216383399
+2006,Russia_Growth_Rate,2.9185867895545226,2.9185867895545226
+2007,Russia_Growth_Rate,0.29850746268655914,0.29850746268655914
+2008,Russia_Growth_Rate,2.3809523809523725,2.3809523809523725
+2009,Russia_Growth_Rate,-5.959302325581395,-5.959302325581395
+2010,Russia_Growth_Rate,6.3369397217929,6.3369397217929
+2011,Russia_Growth_Rate,3.3430232558139483,3.3430232558139483
+2012,Russia_Growth_Rate,2.390998593530247,2.390998593530247
+2013,Russia_Growth_Rate,-2.8846153846153855,-2.8846153846153855
+2014,Russia_Growth_Rate,0.0,0.0
+2015,Russia_Growth_Rate,-1.980198019801982,-1.980198019801982
+2016,Russia_Growth_Rate,3.0303030303030276,3.0303030303030276
+2017,Russia_Growth_Rate,2.1008403361344463,2.1008403361344463
+2018,Russia_Growth_Rate,4.252400548696844,4.252400548696844
+2019,Russia_Growth_Rate,1.0526315789473717,1.0526315789473717
+2020,Russia_Growth_Rate,-4.8177083333333375,-4.8177083333333375
+1990,Ukraine_Growth_Rate,,
+1991,Ukraine_Growth_Rate,0.0,0.0
+1992,Ukraine_Growth_Rate,-12.698412698412698,-12.698412698412698
+1993,Ukraine_Growth_Rate,-11.363636363636365,-11.363636363636365
+1994,Ukraine_Growth_Rate,-14.871794871794874,-14.871794871794874
+1995,Ukraine_Growth_Rate,-1.2048192771084376,-1.2048192771084376
+1996,Ukraine_Growth_Rate,-8.536585365853655,-8.536585365853655
+1997,Ukraine_Growth_Rate,-4.0000000000000036,-4.0000000000000036
+1998,Ukraine_Growth_Rate,-5.555555555555558,-5.555555555555558
+1999,Ukraine_Growth_Rate,-0.7352941176470562,-0.7352941176470562
+2000,Ukraine_Growth_Rate,-0.7407407407407418,-0.7407407407407418
+2001,Ukraine_Growth_Rate,0.0,0.0
+2002,Ukraine_Growth_Rate,1.4925373134328401,1.4925373134328401
+2003,Ukraine_Growth_Rate,3.6764705882353033,3.6764705882353033
+2004,Ukraine_Growth_Rate,0.7092198581560183,0.7092198581560183
+2005,Ukraine_Growth_Rate,-0.7042253521126751,-0.7042253521126751
+2006,Ukraine_Growth_Rate,-2.8368794326241176,-2.8368794326241176
+2007,Ukraine_Growth_Rate,1.4598540145985384,1.4598540145985384
+2008,Ukraine_Growth_Rate,-2.877697841726623,-2.877697841726623
+2009,Ukraine_Growth_Rate,-15.555555555555555,-15.555555555555555
+2010,Ukraine_Growth_Rate,15.789473684210531,15.789473684210531
+2011,Ukraine_Growth_Rate,-4.545454545454541,-4.545454545454541
+2012,Ukraine_Growth_Rate,-3.1746031746031744,-3.1746031746031744
+2013,Ukraine_Growth_Rate,-4.918032786885251,-4.918032786885251
+2014,Ukraine_Growth_Rate,-8.62068965517241,-8.62068965517241
+2015,Ukraine_Growth_Rate,-12.264150943396224,-12.264150943396224
+2016,Ukraine_Growth_Rate,-1.0752688172043001,-1.0752688172043001
+2017,Ukraine_Growth_Rate,-3.2608695652173947,-3.2608695652173947
+2018,Ukraine_Growth_Rate,4.494382022471921,4.494382022471921
+2019,Ukraine_Growth_Rate,-4.3010752688172005,-4.3010752688172005
+2020,Ukraine_Growth_Rate,-3.3707865168539297,-3.3707865168539297
+1990,Uzbekistan_Growth_Rate,,
+1991,Uzbekistan_Growth_Rate,2.127659574468077,2.127659574468077
+1992,Uzbekistan_Growth_Rate,-6.25,-6.25
+1993,Uzbekistan_Growth_Rate,4.444444444444451,4.444444444444451
+1994,Uzbekistan_Growth_Rate,-2.127659574468088,-2.127659574468088
+1995,Uzbekistan_Growth_Rate,-6.521739130434778,-6.521739130434778
+1996,Uzbekistan_Growth_Rate,2.3255813953488413,2.3255813953488413
+1997,Uzbekistan_Growth_Rate,2.2727272727272707,2.2727272727272707
+1998,Uzbekistan_Growth_Rate,4.444444444444451,4.444444444444451
+1999,Uzbekistan_Growth_Rate,6.382978723404253,6.382978723404253
+2000,Uzbekistan_Growth_Rate,2.0000000000000018,2.0000000000000018
+2001,Uzbekistan_Growth_Rate,0.0,0.0
+2002,Uzbekistan_Growth_Rate,3.9215686274509887,3.9215686274509887
+2003,Uzbekistan_Growth_Rate,-3.7735849056603765,-3.7735849056603765
+2004,Uzbekistan_Growth_Rate,0.0,0.0
+2005,Uzbekistan_Growth_Rate,-5.882352941176472,-5.882352941176472
+2006,Uzbekistan_Growth_Rate,2.083333333333326,2.083333333333326
+2007,Uzbekistan_Growth_Rate,-2.0408163265306145,-2.0408163265306145
+2008,Uzbekistan_Growth_Rate,4.166666666666674,4.166666666666674
+2009,Uzbekistan_Growth_Rate,-7.9999999999999964,-7.9999999999999964
+2010,Uzbekistan_Growth_Rate,6.521739130434789,6.521739130434789
+2011,Uzbekistan_Growth_Rate,2.0408163265306145,2.0408163265306145
+2012,Uzbekistan_Growth_Rate,-12.0,-12.0
+2013,Uzbekistan_Growth_Rate,0.0,0.0
+2014,Uzbekistan_Growth_Rate,-6.818181818181824,-6.818181818181824
+2015,Uzbekistan_Growth_Rate,-4.878048780487809,-4.878048780487809
+2016,Uzbekistan_Growth_Rate,7.692307692307687,7.692307692307687
+2017,Uzbekistan_Growth_Rate,4.761904761904767,4.761904761904767
+2018,Uzbekistan_Growth_Rate,4.545454545454541,4.545454545454541
+2019,Uzbekistan_Growth_Rate,2.1739130434782705,2.1739130434782705
+2020,Uzbekistan_Growth_Rate,-6.382978723404253,-6.382978723404253
+1990,Argentina_Growth_Rate,,
+1991,Argentina_Growth_Rate,4.545454545454541,4.545454545454541
+1992,Argentina_Growth_Rate,2.1739130434782705,2.1739130434782705
+1993,Argentina_Growth_Rate,2.127659574468077,2.127659574468077
+1994,Argentina_Growth_Rate,8.333333333333325,8.333333333333325
+1995,Argentina_Growth_Rate,0.0,0.0
+1996,Argentina_Growth_Rate,3.8461538461538547,3.8461538461538547
+1997,Argentina_Growth_Rate,3.703703703703698,3.703703703703698
+1998,Argentina_Growth_Rate,5.35714285714286,5.35714285714286
+1999,Argentina_Growth_Rate,3.3898305084745672,3.3898305084745672
+2000,Argentina_Growth_Rate,0.0,0.0
+2001,Argentina_Growth_Rate,-8.196721311475407,-8.196721311475407
+2002,Argentina_Growth_Rate,0.0,0.0
+2003,Argentina_Growth_Rate,7.14285714285714,7.14285714285714
+2004,Argentina_Growth_Rate,11.66666666666667,11.66666666666667
+2005,Argentina_Growth_Rate,-1.4925373134328401,-1.4925373134328401
+2006,Argentina_Growth_Rate,6.060606060606055,6.060606060606055
+2007,Argentina_Growth_Rate,4.285714285714293,4.285714285714293
+2008,Argentina_Growth_Rate,4.109589041095885,4.109589041095885
+2009,Argentina_Growth_Rate,-7.8947368421052655,-7.8947368421052655
+2010,Argentina_Growth_Rate,7.14285714285714,7.14285714285714
+2011,Argentina_Growth_Rate,2.6666666666666616,2.6666666666666616
+2012,Argentina_Growth_Rate,3.8961038961038863,3.8961038961038863
+2013,Argentina_Growth_Rate,2.499999999999991,2.499999999999991
+2014,Argentina_Growth_Rate,0.0,0.0
+2015,Argentina_Growth_Rate,1.2195121951219523,1.2195121951219523
+2016,Argentina_Growth_Rate,-1.2048192771084376,-1.2048192771084376
+2017,Argentina_Growth_Rate,0.0,0.0
+2018,Argentina_Growth_Rate,-2.4390243902439046,-2.4390243902439046
+2019,Argentina_Growth_Rate,-1.2499999999999956,-1.2499999999999956
+2020,Argentina_Growth_Rate,-8.860759493670889,-8.860759493670889
+1990,Canada_Growth_Rate,,
+1991,Canada_Growth_Rate,-0.4739336492891044,-0.4739336492891044
+1992,Canada_Growth_Rate,2.857142857142847,2.857142857142847
+1993,Canada_Growth_Rate,3.240740740740744,3.240740740740744
+1994,Canada_Growth_Rate,3.587443946188351,3.587443946188351
+1995,Canada_Growth_Rate,1.298701298701288,1.298701298701288
+1996,Canada_Growth_Rate,2.136752136752129,2.136752136752129
+1997,Canada_Growth_Rate,1.2552301255230214,1.2552301255230214
+1998,Canada_Growth_Rate,-0.8264462809917328,-0.8264462809917328
+1999,Canada_Growth_Rate,2.9166666666666563,2.9166666666666563
+2000,Canada_Growth_Rate,2.8340080971659853,2.8340080971659853
+2001,Canada_Growth_Rate,-1.5748031496062964,-1.5748031496062964
+2002,Canada_Growth_Rate,0.40000000000000036,0.40000000000000036
+2003,Canada_Growth_Rate,5.179282868525892,5.179282868525892
+2004,Canada_Growth_Rate,2.6515151515151603,2.6515151515151603
+2005,Canada_Growth_Rate,1.1070110701107083,1.1070110701107083
+2006,Canada_Growth_Rate,1.4598540145985384,1.4598540145985384
+2007,Canada_Growth_Rate,0.0,0.0
+2008,Canada_Growth_Rate,-2.517985611510787,-2.517985611510787
+2009,Canada_Growth_Rate,-3.690036900369009,-3.690036900369009
+2010,Canada_Growth_Rate,0.3831417624521105,0.3831417624521105
+2011,Canada_Growth_Rate,1.9083969465648831,1.9083969465648831
+2012,Canada_Growth_Rate,0.7490636704119868,0.7490636704119868
+2013,Canada_Growth_Rate,2.230483271375472,2.230483271375472
+2014,Canada_Growth_Rate,2.5454545454545396,2.5454545454545396
+2015,Canada_Growth_Rate,0.35460992907800915,0.35460992907800915
+2016,Canada_Growth_Rate,1.4134275618374659,1.4134275618374659
+2017,Canada_Growth_Rate,2.7874564459930307,2.7874564459930307
+2018,Canada_Growth_Rate,1.016949152542379,1.016949152542379
+2019,Canada_Growth_Rate,1.0067114093959662,1.0067114093959662
+2020,Canada_Growth_Rate,-6.644518272425248,-6.644518272425248
+1990,Chile_Growth_Rate,,
+1991,Chile_Growth_Rate,0.0,0.0
+1992,Chile_Growth_Rate,7.14285714285714,7.14285714285714
+1993,Chile_Growth_Rate,6.666666666666665,6.666666666666665
+1994,Chile_Growth_Rate,6.25,6.25
+1995,Chile_Growth_Rate,5.882352941176472,5.882352941176472
+1996,Chile_Growth_Rate,11.111111111111116,11.111111111111116
+1997,Chile_Growth_Rate,14.999999999999991,14.999999999999991
+1998,Chile_Growth_Rate,4.347826086956519,4.347826086956519
+1999,Chile_Growth_Rate,4.166666666666674,4.166666666666674
+2000,Chile_Growth_Rate,0.0,0.0
+2001,Chile_Growth_Rate,0.0,0.0
+2002,Chile_Growth_Rate,4.0000000000000036,4.0000000000000036
+2003,Chile_Growth_Rate,0.0,0.0
+2004,Chile_Growth_Rate,7.692307692307687,7.692307692307687
+2005,Chile_Growth_Rate,0.0,0.0
+2006,Chile_Growth_Rate,7.14285714285714,7.14285714285714
+2007,Chile_Growth_Rate,3.3333333333333437,3.3333333333333437
+2008,Chile_Growth_Rate,-3.2258064516129004,-3.2258064516129004
+2009,Chile_Growth_Rate,0.0,0.0
+2010,Chile_Growth_Rate,3.3333333333333437,3.3333333333333437
+2011,Chile_Growth_Rate,9.677419354838701,9.677419354838701
+2012,Chile_Growth_Rate,8.823529411764696,8.823529411764696
+2013,Chile_Growth_Rate,2.7027027027026973,2.7027027027026973
+2014,Chile_Growth_Rate,-7.8947368421052655,-7.8947368421052655
+2015,Chile_Growth_Rate,2.857142857142847,2.857142857142847
+2016,Chile_Growth_Rate,5.555555555555558,5.555555555555558
+2017,Chile_Growth_Rate,0.0,0.0
+2018,Chile_Growth_Rate,2.6315789473684292,2.6315789473684292
+2019,Chile_Growth_Rate,2.564102564102555,2.564102564102555
+2020,Chile_Growth_Rate,-5.000000000000004,-5.000000000000004
+1990,Colombia_Growth_Rate,,
+1991,Colombia_Growth_Rate,0.0,0.0
+1992,Colombia_Growth_Rate,4.166666666666674,4.166666666666674
+1993,Colombia_Growth_Rate,4.0000000000000036,4.0000000000000036
+1994,Colombia_Growth_Rate,3.8461538461538547,3.8461538461538547
+1995,Colombia_Growth_Rate,3.703703703703698,3.703703703703698
+1996,Colombia_Growth_Rate,0.0,0.0
+1997,Colombia_Growth_Rate,-3.57142857142857,-3.57142857142857
+1998,Colombia_Growth_Rate,7.407407407407418,7.407407407407418
+1999,Colombia_Growth_Rate,-10.344827586206895,-10.344827586206895
+2000,Colombia_Growth_Rate,0.0,0.0
+2001,Colombia_Growth_Rate,0.0,0.0
+2002,Colombia_Growth_Rate,-3.8461538461538436,-3.8461538461538436
+2003,Colombia_Growth_Rate,4.0000000000000036,4.0000000000000036
+2004,Colombia_Growth_Rate,0.0,0.0
+2005,Colombia_Growth_Rate,3.8461538461538547,3.8461538461538547
+2006,Colombia_Growth_Rate,7.407407407407418,7.407407407407418
+2007,Colombia_Growth_Rate,-3.4482758620689613,-3.4482758620689613
+2008,Colombia_Growth_Rate,7.14285714285714,7.14285714285714
+2009,Colombia_Growth_Rate,3.3333333333333437,3.3333333333333437
+2010,Colombia_Growth_Rate,-3.2258064516129004,-3.2258064516129004
+2011,Colombia_Growth_Rate,3.3333333333333437,3.3333333333333437
+2012,Colombia_Growth_Rate,-3.2258064516129004,-3.2258064516129004
+2013,Colombia_Growth_Rate,33.33333333333333,33.33333333333333
+2014,Colombia_Growth_Rate,0.0,0.0
+2015,Colombia_Growth_Rate,2.499999999999991,2.499999999999991
+2016,Colombia_Growth_Rate,2.4390243902439046,2.4390243902439046
+2017,Colombia_Growth_Rate,-4.761904761904767,-4.761904761904767
+2018,Colombia_Growth_Rate,-2.500000000000002,-2.500000000000002
+2019,Colombia_Growth_Rate,5.128205128205132,5.128205128205132
+2020,Colombia_Growth_Rate,-4.878048780487809,-4.878048780487809
+1990,Mexico_Growth_Rate,,
+1991,Mexico_Growth_Rate,4.8387096774193505,4.8387096774193505
+1992,Mexico_Growth_Rate,0.7692307692307665,0.7692307692307665
+1993,Mexico_Growth_Rate,1.526717557251911,1.526717557251911
+1994,Mexico_Growth_Rate,2.2556390977443552,2.2556390977443552
+1995,Mexico_Growth_Rate,-2.941176470588236,-2.941176470588236
+1996,Mexico_Growth_Rate,2.2727272727272707,2.2727272727272707
+1997,Mexico_Growth_Rate,5.185185185185182,5.185185185185182
+1998,Mexico_Growth_Rate,2.8169014084507005,2.8169014084507005
+1999,Mexico_Growth_Rate,2.7397260273972712,2.7397260273972712
+2000,Mexico_Growth_Rate,0.6666666666666599,0.6666666666666599
+2001,Mexico_Growth_Rate,2.6490066225165476,2.6490066225165476
+2002,Mexico_Growth_Rate,1.2903225806451646,1.2903225806451646
+2003,Mexico_Growth_Rate,7.006369426751591,7.006369426751591
+2004,Mexico_Growth_Rate,1.7857142857142794,1.7857142857142794
+2005,Mexico_Growth_Rate,5.84795321637428,5.84795321637428
+2006,Mexico_Growth_Rate,1.6574585635359185,1.6574585635359185
+2007,Mexico_Growth_Rate,-0.5434782608695676,-0.5434782608695676
+2008,Mexico_Growth_Rate,0.5464480874316946,0.5464480874316946
+2009,Mexico_Growth_Rate,-2.1739130434782594,-2.1739130434782594
+2010,Mexico_Growth_Rate,-0.5555555555555536,-0.5555555555555536
+2011,Mexico_Growth_Rate,4.469273743016755,4.469273743016755
+2012,Mexico_Growth_Rate,2.673796791443861,2.673796791443861
+2013,Mexico_Growth_Rate,0.0,0.0
+2014,Mexico_Growth_Rate,-2.083333333333337,-2.083333333333337
+2015,Mexico_Growth_Rate,-1.5957446808510634,-1.5957446808510634
+2016,Mexico_Growth_Rate,0.0,0.0
+2017,Mexico_Growth_Rate,-2.7027027027026973,-2.7027027027026973
+2018,Mexico_Growth_Rate,0.5555555555555536,0.5555555555555536
+2019,Mexico_Growth_Rate,-2.7624309392265234,-2.7624309392265234
+2020,Mexico_Growth_Rate,-14.204545454545459,-14.204545454545459
+1990,Venezuela_Growth_Rate,,
+1991,Venezuela_Growth_Rate,2.499999999999991,2.499999999999991
+1992,Venezuela_Growth_Rate,12.195121951219523,12.195121951219523
+1993,Venezuela_Growth_Rate,-6.521739130434778,-6.521739130434778
+1994,Venezuela_Growth_Rate,16.279069767441868,16.279069767441868
+1995,Venezuela_Growth_Rate,-6.000000000000005,-6.000000000000005
+1996,Venezuela_Growth_Rate,6.382978723404253,6.382978723404253
+1997,Venezuela_Growth_Rate,0.0,0.0
+1998,Venezuela_Growth_Rate,4.0000000000000036,4.0000000000000036
+1999,Venezuela_Growth_Rate,11.538461538461542,11.538461538461542
+2000,Venezuela_Growth_Rate,1.724137931034475,1.724137931034475
+2001,Venezuela_Growth_Rate,-6.779661016949157,-6.779661016949157
+2002,Venezuela_Growth_Rate,21.818181818181827,21.818181818181827
+2003,Venezuela_Growth_Rate,-5.970149253731338,-5.970149253731338
+2004,Venezuela_Growth_Rate,-3.1746031746031744,-3.1746031746031744
+2005,Venezuela_Growth_Rate,4.918032786885251,4.918032786885251
+2006,Venezuela_Growth_Rate,1.5625,1.5625
+2007,Venezuela_Growth_Rate,1.538461538461533,1.538461538461533
+2008,Venezuela_Growth_Rate,0.0,0.0
+2009,Venezuela_Growth_Rate,-4.545454545454541,-4.545454545454541
+2010,Venezuela_Growth_Rate,19.047619047619047,19.047619047619047
+2011,Venezuela_Growth_Rate,-10.666666666666668,-10.666666666666668
+2012,Venezuela_Growth_Rate,2.9850746268656803,2.9850746268656803
+2013,Venezuela_Growth_Rate,10.144927536231885,10.144927536231885
+2014,Venezuela_Growth_Rate,-13.157894736842103,-13.157894736842103
+2015,Venezuela_Growth_Rate,-3.0303030303030276,-3.0303030303030276
+2016,Venezuela_Growth_Rate,-7.8125,-7.8125
+2017,Venezuela_Growth_Rate,-5.0847457627118615,-5.0847457627118615
+2018,Venezuela_Growth_Rate,-25.0,-25.0
+2019,Venezuela_Growth_Rate,-14.28571428571429,-14.28571428571429
+2020,Venezuela_Growth_Rate,-19.444444444444443,-19.444444444444443
+1990,Indonesia_Growth_Rate,,
+1991,Indonesia_Growth_Rate,4.040404040404044,4.040404040404044
+1992,Indonesia_Growth_Rate,4.854368932038833,4.854368932038833
+1993,Indonesia_Growth_Rate,10.185185185185187,10.185185185185187
+1994,Indonesia_Growth_Rate,0.0,0.0
+1995,Indonesia_Growth_Rate,10.084033613445387,10.084033613445387
+1996,Indonesia_Growth_Rate,3.8167938931297662,3.8167938931297662
+1997,Indonesia_Growth_Rate,2.941176470588225,2.941176470588225
+1998,Indonesia_Growth_Rate,-2.1428571428571463,-2.1428571428571463
+1999,Indonesia_Growth_Rate,5.109489051094895,5.109489051094895
+2000,Indonesia_Growth_Rate,8.333333333333325,8.333333333333325
+2001,Indonesia_Growth_Rate,1.9230769230769162,1.9230769230769162
+2002,Indonesia_Growth_Rate,3.7735849056603765,3.7735849056603765
+2003,Indonesia_Growth_Rate,0.0,0.0
+2004,Indonesia_Growth_Rate,6.666666666666665,6.666666666666665
+2005,Indonesia_Growth_Rate,1.7045454545454586,1.7045454545454586
+2006,Indonesia_Growth_Rate,2.2346368715083775,2.2346368715083775
+2007,Indonesia_Growth_Rate,-0.5464480874316946,-0.5464480874316946
+2008,Indonesia_Growth_Rate,1.6483516483516425,1.6483516483516425
+2009,Indonesia_Growth_Rate,5.945945945945952,5.945945945945952
+2010,Indonesia_Growth_Rate,3.0612244897959107,3.0612244897959107
+2011,Indonesia_Growth_Rate,1.4851485148514865,1.4851485148514865
+2012,Indonesia_Growth_Rate,-0.4878048780487809,-0.4878048780487809
+2013,Indonesia_Growth_Rate,-3.4313725490196068,-3.4313725490196068
+2014,Indonesia_Growth_Rate,4.5685279187817285,4.5685279187817285
+2015,Indonesia_Growth_Rate,-0.9708737864077666,-0.9708737864077666
+2016,Indonesia_Growth_Rate,2.450980392156854,2.450980392156854
+2017,Indonesia_Growth_Rate,6.2200956937799035,6.2200956937799035
+2018,Indonesia_Growth_Rate,4.054054054054057,4.054054054054057
+2019,Indonesia_Growth_Rate,2.5974025974025983,2.5974025974025983
+2020,Indonesia_Growth_Rate,-5.063291139240511,-5.063291139240511
+1990,Japan_Growth_Rate,,
+1991,Japan_Growth_Rate,1.1363636363636465,1.1363636363636465
+1992,Japan_Growth_Rate,2.2471910112359605,2.2471910112359605
+1993,Japan_Growth_Rate,0.659340659340657,0.659340659340657
+1994,Japan_Growth_Rate,5.458515283842802,5.458515283842802
+1995,Japan_Growth_Rate,2.4844720496894457,2.4844720496894457
+1996,Japan_Growth_Rate,2.2222222222222143,2.2222222222222143
+1997,Japan_Growth_Rate,0.9881422924901129,0.9881422924901129
+1998,Japan_Growth_Rate,-1.7612524461839585,-1.7612524461839585
+1999,Japan_Growth_Rate,1.5936254980079667,1.5936254980079667
+2000,Japan_Growth_Rate,1.9607843137254832,1.9607843137254832
+2001,Japan_Growth_Rate,-1.7307692307692357,-1.7307692307692357
+2002,Japan_Growth_Rate,0.391389432485334,0.391389432485334
+2003,Japan_Growth_Rate,-0.7797270955165692,-0.7797270955165692
+2004,Japan_Growth_Rate,3.3398821218074692,3.3398821218074692
+2005,Japan_Growth_Rate,-0.38022813688213253,-0.38022813688213253
+2006,Japan_Growth_Rate,0.0,0.0
+2007,Japan_Growth_Rate,-0.9541984732824416,-0.9541984732824416
+2008,Japan_Growth_Rate,-3.6608863198458574,-3.6608863198458574
+2009,Japan_Growth_Rate,-4.600000000000004,-4.600000000000004
+2010,Japan_Growth_Rate,5.450733752620551,5.450733752620551
+2011,Japan_Growth_Rate,-7.3558648111332054,-7.3558648111332054
+2012,Japan_Growth_Rate,-2.145922746781115,-2.145922746781115
+2013,Japan_Growth_Rate,0.21929824561404132,0.21929824561404132
+2014,Japan_Growth_Rate,-3.2822757111597323,-3.2822757111597323
+2015,Japan_Growth_Rate,-1.8099547511312264,-1.8099547511312264
+2016,Japan_Growth_Rate,-1.1520737327188946,-1.1520737327188946
+2017,Japan_Growth_Rate,1.1655011655011593,1.1655011655011593
+2018,Japan_Growth_Rate,-1.382488479262678,-1.382488479262678
+2019,Japan_Growth_Rate,-2.8037383177570097,-2.8037383177570097
+2020,Japan_Growth_Rate,-7.211538461538458,-7.211538461538458
+1990,Malaysia_Growth_Rate,,
+1991,Malaysia_Growth_Rate,23.809523809523814,23.809523809523814
+1992,Malaysia_Growth_Rate,11.538461538461542,11.538461538461542
+1993,Malaysia_Growth_Rate,10.344827586206895,10.344827586206895
+1994,Malaysia_Growth_Rate,0.0,0.0
+1995,Malaysia_Growth_Rate,6.25,6.25
+1996,Malaysia_Growth_Rate,11.764705882352944,11.764705882352944
+1997,Malaysia_Growth_Rate,15.789473684210531,15.789473684210531
+1998,Malaysia_Growth_Rate,-4.545454545454541,-4.545454545454541
+1999,Malaysia_Growth_Rate,0.0,0.0
+2000,Malaysia_Growth_Rate,14.28571428571428,14.28571428571428
+2001,Malaysia_Growth_Rate,6.25,6.25
+2002,Malaysia_Growth_Rate,1.9607843137254832,1.9607843137254832
+2003,Malaysia_Growth_Rate,7.692307692307687,7.692307692307687
+2004,Malaysia_Growth_Rate,7.14285714285714,7.14285714285714
+2005,Malaysia_Growth_Rate,10.000000000000009,10.000000000000009
+2006,Malaysia_Growth_Rate,0.0,0.0
+2007,Malaysia_Growth_Rate,10.606060606060597,10.606060606060597
+2008,Malaysia_Growth_Rate,4.109589041095885,4.109589041095885
+2009,Malaysia_Growth_Rate,-5.263157894736848,-5.263157894736848
+2010,Malaysia_Growth_Rate,1.388888888888884,1.388888888888884
+2011,Malaysia_Growth_Rate,4.109589041095885,4.109589041095885
+2012,Malaysia_Growth_Rate,1.3157894736842035,1.3157894736842035
+2013,Malaysia_Growth_Rate,12.987012987012992,12.987012987012992
+2014,Malaysia_Growth_Rate,2.298850574712641,2.298850574712641
+2015,Malaysia_Growth_Rate,-4.49438202247191,-4.49438202247191
+2016,Malaysia_Growth_Rate,3.529411764705892,3.529411764705892
+2017,Malaysia_Growth_Rate,-3.409090909090906,-3.409090909090906
+2018,Malaysia_Growth_Rate,10.588235294117654,10.588235294117654
+2019,Malaysia_Growth_Rate,2.127659574468077,2.127659574468077
+2020,Malaysia_Growth_Rate,-8.333333333333337,-8.333333333333337
+1990,South Korea_Growth_Rate,,
+1991,South Korea_Growth_Rate,7.446808510638303,7.446808510638303
+1992,South Korea_Growth_Rate,9.90099009900991,9.90099009900991
+1993,South Korea_Growth_Rate,12.612612612612617,12.612612612612617
+1994,South Korea_Growth_Rate,6.400000000000006,6.400000000000006
+1995,South Korea_Growth_Rate,9.774436090225569,9.774436090225569
+1996,South Korea_Growth_Rate,8.219178082191792,8.219178082191792
+1997,South Korea_Growth_Rate,8.860759493670889,8.860759493670889
+1998,South Korea_Growth_Rate,-8.139534883720934,-8.139534883720934
+1999,South Korea_Growth_Rate,10.126582278481022,10.126582278481022
+2000,South Korea_Growth_Rate,9.195402298850585,9.195402298850585
+2001,South Korea_Growth_Rate,1.5789473684210575,1.5789473684210575
+2002,South Korea_Growth_Rate,4.145077720207246,4.145077720207246
+2003,South Korea_Growth_Rate,2.487562189054726,2.487562189054726
+2004,South Korea_Growth_Rate,2.9126213592232997,2.9126213592232997
+2005,South Korea_Growth_Rate,0.9433962264151052,0.9433962264151052
+2006,South Korea_Growth_Rate,1.869158878504673,1.869158878504673
+2007,South Korea_Growth_Rate,4.128440366972486,4.128440366972486
+2008,South Korea_Growth_Rate,2.2026431718061623,2.2026431718061623
+2009,South Korea_Growth_Rate,0.8620689655172376,0.8620689655172376
+2010,South Korea_Growth_Rate,9.401709401709413,9.401709401709413
+2011,South Korea_Growth_Rate,4.296875,4.296875
+2012,South Korea_Growth_Rate,1.4981273408239737,1.4981273408239737
+2013,South Korea_Growth_Rate,0.36900369003689537,0.36900369003689537
+2014,South Korea_Growth_Rate,1.8382352941176405,1.8382352941176405
+2015,South Korea_Growth_Rate,2.166064981949467,2.166064981949467
+2016,South Korea_Growth_Rate,3.5335689045936425,3.5335689045936425
+2017,South Korea_Growth_Rate,0.6825938566553003,0.6825938566553003
+2018,South Korea_Growth_Rate,0.3389830508474523,0.3389830508474523
+2019,South Korea_Growth_Rate,-1.0135135135135087,-1.0135135135135087
+2020,South Korea_Growth_Rate,-3.4129692832764458,-3.4129692832764458
+1990,Taiwan_Growth_Rate,,
+1991,Taiwan_Growth_Rate,8.333333333333325,8.333333333333325
+1992,Taiwan_Growth_Rate,3.8461538461538547,3.8461538461538547
+1993,Taiwan_Growth_Rate,7.407407407407418,7.407407407407418
+1994,Taiwan_Growth_Rate,3.4482758620689724,3.4482758620689724
+1995,Taiwan_Growth_Rate,5.000000000000004,5.000000000000004
+1996,Taiwan_Growth_Rate,6.349206349206349,6.349206349206349
+1997,Taiwan_Growth_Rate,5.970149253731338,5.970149253731338
+1998,Taiwan_Growth_Rate,5.633802816901401,5.633802816901401
+1999,Taiwan_Growth_Rate,5.333333333333323,5.333333333333323
+2000,Taiwan_Growth_Rate,7.594936708860756,7.594936708860756
+2001,Taiwan_Growth_Rate,1.17647058823529,1.17647058823529
+2002,Taiwan_Growth_Rate,4.651162790697683,4.651162790697683
+2003,Taiwan_Growth_Rate,4.444444444444451,4.444444444444451
+2004,Taiwan_Growth_Rate,2.127659574468077,2.127659574468077
+2005,Taiwan_Growth_Rate,2.083333333333326,2.083333333333326
+2006,Taiwan_Growth_Rate,2.0408163265306145,2.0408163265306145
+2007,Taiwan_Growth_Rate,5.000000000000004,5.000000000000004
+2008,Taiwan_Growth_Rate,-3.809523809523807,-3.809523809523807
+2009,Taiwan_Growth_Rate,-0.990099009900991,-0.990099009900991
+2010,Taiwan_Growth_Rate,6.000000000000005,6.000000000000005
+2011,Taiwan_Growth_Rate,-0.9433962264150941,-0.9433962264150941
+2012,Taiwan_Growth_Rate,0.0,0.0
+2013,Taiwan_Growth_Rate,1.904761904761898,1.904761904761898
+2014,Taiwan_Growth_Rate,1.869158878504673,1.869158878504673
+2015,Taiwan_Growth_Rate,-1.834862385321101,-1.834862385321101
+2016,Taiwan_Growth_Rate,1.869158878504673,1.869158878504673
+2017,Taiwan_Growth_Rate,-1.834862385321101,-1.834862385321101
+2018,Taiwan_Growth_Rate,2.8037383177569986,2.8037383177569986
+2019,Taiwan_Growth_Rate,-1.8181818181818188,-1.8181818181818188
+2020,Taiwan_Growth_Rate,-2.777777777777779,-2.777777777777779
+1990,Thailand_Growth_Rate,,
+1991,Thailand_Growth_Rate,9.523809523809534,9.523809523809534
+1992,Thailand_Growth_Rate,6.521739130434789,6.521739130434789
+1993,Thailand_Growth_Rate,4.081632653061229,4.081632653061229
+1994,Thailand_Growth_Rate,11.764705882352944,11.764705882352944
+1995,Thailand_Growth_Rate,8.771929824561408,8.771929824561408
+1996,Thailand_Growth_Rate,11.290322580645151,11.290322580645151
+1997,Thailand_Growth_Rate,2.898550724637672,2.898550724637672
+1998,Thailand_Growth_Rate,-7.042253521126762,-7.042253521126762
+1999,Thailand_Growth_Rate,7.575757575757569,7.575757575757569
+2000,Thailand_Growth_Rate,1.4084507042253502,1.4084507042253502
+2001,Thailand_Growth_Rate,2.777777777777768,2.777777777777768
+2002,Thailand_Growth_Rate,10.81081081081081,10.81081081081081
+2003,Thailand_Growth_Rate,8.536585365853666,8.536585365853666
+2004,Thailand_Growth_Rate,7.86516853932584,7.86516853932584
+2005,Thailand_Growth_Rate,3.125,3.125
+2006,Thailand_Growth_Rate,2.020202020202011,2.020202020202011
+2007,Thailand_Growth_Rate,3.960396039603964,3.960396039603964
+2008,Thailand_Growth_Rate,2.857142857142847,2.857142857142847
+2009,Thailand_Growth_Rate,0.0,0.0
+2010,Thailand_Growth_Rate,9.259259259259256,9.259259259259256
+2011,Thailand_Growth_Rate,0.0,0.0
+2012,Thailand_Growth_Rate,6.779661016949157,6.779661016949157
+2013,Thailand_Growth_Rate,7.9365079365079305,7.9365079365079305
+2014,Thailand_Growth_Rate,0.0,0.0
+2015,Thailand_Growth_Rate,0.0,0.0
+2016,Thailand_Growth_Rate,2.2058823529411686,2.2058823529411686
+2017,Thailand_Growth_Rate,0.0,0.0
+2018,Thailand_Growth_Rate,-2.1582733812949617,-2.1582733812949617
+2019,Thailand_Growth_Rate,0.7352941176470562,0.7352941176470562
+2020,Thailand_Growth_Rate,-8.75912408759124,-8.75912408759124
+1990,India_Growth_Rate,,
+1991,India_Growth_Rate,3.9215686274509887,3.9215686274509887
+1992,India_Growth_Rate,3.7735849056603765,3.7735849056603765
+1993,India_Growth_Rate,2.4242424242424176,2.4242424242424176
+1994,India_Growth_Rate,3.8461538461538547,3.8461538461538547
+1995,India_Growth_Rate,5.698005698005693,5.698005698005693
+1996,India_Growth_Rate,3.2345013477088846,3.2345013477088846
+1997,India_Growth_Rate,3.9164490861618884,3.9164490861618884
+1998,India_Growth_Rate,2.261306532663321,2.261306532663321
+1999,India_Growth_Rate,5.896805896805901,5.896805896805901
+2000,India_Growth_Rate,2.3201856148491906,2.3201856148491906
+2001,India_Growth_Rate,1.5873015873015817,1.5873015873015817
+2002,India_Growth_Rate,3.125,3.125
+2003,India_Growth_Rate,2.5974025974025983,2.5974025974025983
+2004,India_Growth_Rate,5.485232067510548,5.485232067510548
+2005,India_Growth_Rate,3.0000000000000027,3.0000000000000027
+2006,India_Growth_Rate,3.495145631067964,3.495145631067964
+2007,India_Growth_Rate,6.566604127579745,6.566604127579745
+2008,India_Growth_Rate,6.338028169014076,6.338028169014076
+2009,India_Growth_Rate,9.768211920529811,9.768211920529811
+2010,India_Growth_Rate,5.731523378582204,5.731523378582204
+2011,India_Growth_Rate,4.707560627674745,4.707560627674745
+2012,India_Growth_Rate,4.3596730245231585,4.3596730245231585
+2013,India_Growth_Rate,1.6971279373368064,1.6971279373368064
+2014,India_Growth_Rate,5.51989730423621,5.51989730423621
+2015,India_Growth_Rate,1.5815085158150888,1.5815085158150888
+2016,India_Growth_Rate,2.0359281437125842,2.0359281437125842
+2017,India_Growth_Rate,3.638497652582151,3.638497652582151
+2018,India_Growth_Rate,4.077010192525488,4.077010192525488
+2019,India_Growth_Rate,2.285092491838947,2.285092491838947
+2020,India_Growth_Rate,-3.404255319148941,-3.404255319148941
+1990,Australia_Growth_Rate,,
+1991,Australia_Growth_Rate,-1.1627906976744207,-1.1627906976744207
+1992,Australia_Growth_Rate,2.35294117647058,2.35294117647058
+1993,Australia_Growth_Rate,4.597701149425282,4.597701149425282
+1994,Australia_Growth_Rate,0.0,0.0
+1995,Australia_Growth_Rate,2.19780219780219,2.19780219780219
+1996,Australia_Growth_Rate,6.451612903225801,6.451612903225801
+1997,Australia_Growth_Rate,2.020202020202011,2.020202020202011
+1998,Australia_Growth_Rate,2.970297029702973,2.970297029702973
+1999,Australia_Growth_Rate,1.9230769230769162,1.9230769230769162
+2000,Australia_Growth_Rate,1.8867924528301883,1.8867924528301883
+2001,Australia_Growth_Rate,-1.851851851851849,-1.851851851851849
+2002,Australia_Growth_Rate,2.8301886792452935,2.8301886792452935
+2003,Australia_Growth_Rate,1.83486238532109,1.83486238532109
+2004,Australia_Growth_Rate,1.8018018018018056,1.8018018018018056
+2005,Australia_Growth_Rate,0.0,0.0
+2006,Australia_Growth_Rate,4.424778761061954,4.424778761061954
+2007,Australia_Growth_Rate,2.5423728813559254,2.5423728813559254
+2008,Australia_Growth_Rate,4.132231404958686,4.132231404958686
+2009,Australia_Growth_Rate,0.0,0.0
+2010,Australia_Growth_Rate,0.0,0.0
+2011,Australia_Growth_Rate,0.7936507936507908,0.7936507936507908
+2012,Australia_Growth_Rate,-0.7874015748031482,-0.7874015748031482
+2013,Australia_Growth_Rate,0.7936507936507908,0.7936507936507908
+2014,Australia_Growth_Rate,0.0,0.0
+2015,Australia_Growth_Rate,0.0,0.0
+2016,Australia_Growth_Rate,0.0,0.0
+2017,Australia_Growth_Rate,0.7874015748031482,0.7874015748031482
+2018,Australia_Growth_Rate,0.0,0.0
+2019,Australia_Growth_Rate,0.78125,0.78125
+2020,Australia_Growth_Rate,-2.3255813953488413,-2.3255813953488413
+1990,New Zealand_Growth_Rate,,
+1991,New Zealand_Growth_Rate,0.0,0.0
+1992,New Zealand_Growth_Rate,0.0,0.0
+1993,New Zealand_Growth_Rate,7.14285714285714,7.14285714285714
+1994,New Zealand_Growth_Rate,0.0,0.0
+1995,New Zealand_Growth_Rate,0.0,0.0
+1996,New Zealand_Growth_Rate,6.666666666666665,6.666666666666665
+1997,New Zealand_Growth_Rate,0.0,0.0
+1998,New Zealand_Growth_Rate,0.0,0.0
+1999,New Zealand_Growth_Rate,6.25,6.25
+2000,New Zealand_Growth_Rate,0.0,0.0
+2001,New Zealand_Growth_Rate,0.0,0.0
+2002,New Zealand_Growth_Rate,0.0,0.0
+2003,New Zealand_Growth_Rate,0.0,0.0
+2004,New Zealand_Growth_Rate,5.882352941176472,5.882352941176472
+2005,New Zealand_Growth_Rate,-5.555555555555558,-5.555555555555558
+2006,New Zealand_Growth_Rate,0.0,0.0
+2007,New Zealand_Growth_Rate,0.0,0.0
+2008,New Zealand_Growth_Rate,5.882352941176472,5.882352941176472
+2009,New Zealand_Growth_Rate,0.0,0.0
+2010,New Zealand_Growth_Rate,5.555555555555558,5.555555555555558
+2011,New Zealand_Growth_Rate,-5.263157894736848,-5.263157894736848
+2012,New Zealand_Growth_Rate,5.555555555555558,5.555555555555558
+2013,New Zealand_Growth_Rate,0.0,0.0
+2014,New Zealand_Growth_Rate,10.526315789473696,10.526315789473696
+2015,New Zealand_Growth_Rate,0.0,0.0
+2016,New Zealand_Growth_Rate,0.0,0.0
+2017,New Zealand_Growth_Rate,0.0,0.0
+2018,New Zealand_Growth_Rate,-4.761904761904767,-4.761904761904767
+2019,New Zealand_Growth_Rate,5.000000000000004,5.000000000000004
+2020,New Zealand_Growth_Rate,0.0,0.0
+1990,Algeria_Growth_Rate,,
+1991,Algeria_Growth_Rate,4.545454545454541,4.545454545454541
+1992,Algeria_Growth_Rate,4.347826086956519,4.347826086956519
+1993,Algeria_Growth_Rate,0.0,0.0
+1994,Algeria_Growth_Rate,-4.1666666666666625,-4.1666666666666625
+1995,Algeria_Growth_Rate,4.347826086956519,4.347826086956519
+1996,Algeria_Growth_Rate,-4.1666666666666625,-4.1666666666666625
+1997,Algeria_Growth_Rate,4.347826086956519,4.347826086956519
+1998,Algeria_Growth_Rate,4.166666666666674,4.166666666666674
+1999,Algeria_Growth_Rate,8.000000000000007,8.000000000000007
+2000,Algeria_Growth_Rate,0.0,0.0
+2001,Algeria_Growth_Rate,0.0,0.0
+2002,Algeria_Growth_Rate,7.407407407407418,7.407407407407418
+2003,Algeria_Growth_Rate,6.896551724137923,6.896551724137923
+2004,Algeria_Growth_Rate,0.0,0.0
+2005,Algeria_Growth_Rate,3.2258064516129004,3.2258064516129004
+2006,Algeria_Growth_Rate,9.375,9.375
+2007,Algeria_Growth_Rate,5.714285714285716,5.714285714285716
+2008,Algeria_Growth_Rate,0.0,0.0
+2009,Algeria_Growth_Rate,10.81081081081081,10.81081081081081
+2010,Algeria_Growth_Rate,2.4390243902439046,2.4390243902439046
+2011,Algeria_Growth_Rate,2.3809523809523725,2.3809523809523725
+2012,Algeria_Growth_Rate,9.302325581395344,9.302325581395344
+2013,Algeria_Growth_Rate,4.255319148936176,4.255319148936176
+2014,Algeria_Growth_Rate,10.20408163265305,10.20408163265305
+2015,Algeria_Growth_Rate,3.703703703703698,3.703703703703698
+2016,Algeria_Growth_Rate,0.0,0.0
+2017,Algeria_Growth_Rate,1.7857142857142794,1.7857142857142794
+2018,Algeria_Growth_Rate,7.017543859649122,7.017543859649122
+2019,Algeria_Growth_Rate,6.557377049180335,6.557377049180335
+2020,Algeria_Growth_Rate,-9.230769230769232,-9.230769230769232
+1990,Egypt_Growth_Rate,,
+1991,Egypt_Growth_Rate,0.0,0.0
+1992,Egypt_Growth_Rate,3.0303030303030276,3.0303030303030276
+1993,Egypt_Growth_Rate,2.941176470588225,2.941176470588225
+1994,Egypt_Growth_Rate,-2.857142857142858,-2.857142857142858
+1995,Egypt_Growth_Rate,5.882352941176472,5.882352941176472
+1996,Egypt_Growth_Rate,5.555555555555558,5.555555555555558
+1997,Egypt_Growth_Rate,5.263157894736836,5.263157894736836
+1998,Egypt_Growth_Rate,5.000000000000004,5.000000000000004
+1999,Egypt_Growth_Rate,2.3809523809523725,2.3809523809523725
+2000,Egypt_Growth_Rate,-4.651162790697672,-4.651162790697672
+2001,Egypt_Growth_Rate,14.634146341463406,14.634146341463406
+2002,Egypt_Growth_Rate,2.127659574468077,2.127659574468077
+2003,Egypt_Growth_Rate,4.166666666666674,4.166666666666674
+2004,Egypt_Growth_Rate,8.000000000000007,8.000000000000007
+2005,Egypt_Growth_Rate,14.814814814814813,14.814814814814813
+2006,Egypt_Growth_Rate,6.451612903225801,6.451612903225801
+2007,Egypt_Growth_Rate,6.060606060606055,6.060606060606055
+2008,Egypt_Growth_Rate,4.285714285714293,4.285714285714293
+2009,Egypt_Growth_Rate,2.7397260273972712,2.7397260273972712
+2010,Egypt_Growth_Rate,-1.3333333333333308,-1.3333333333333308
+2011,Egypt_Growth_Rate,4.054054054054057,4.054054054054057
+2012,Egypt_Growth_Rate,2.5974025974025983,2.5974025974025983
+2013,Egypt_Growth_Rate,-1.2658227848101222,-1.2658227848101222
+2014,Egypt_Growth_Rate,2.564102564102555,2.564102564102555
+2015,Egypt_Growth_Rate,1.2499999999999956,1.2499999999999956
+2016,Egypt_Growth_Rate,8.64197530864197,8.64197530864197
+2017,Egypt_Growth_Rate,5.681818181818188,5.681818181818188
+2018,Egypt_Growth_Rate,3.2258064516129004,3.2258064516129004
+2019,Egypt_Growth_Rate,1.041666666666674,1.041666666666674
+2020,Egypt_Growth_Rate,-5.154639175257736,-5.154639175257736
+1990,Nigeria_Growth_Rate,,
+1991,Nigeria_Growth_Rate,6.060606060606055,6.060606060606055
+1992,Nigeria_Growth_Rate,2.857142857142847,2.857142857142847
+1993,Nigeria_Growth_Rate,2.777777777777768,2.777777777777768
+1994,Nigeria_Growth_Rate,-2.7027027027026973,-2.7027027027026973
+1995,Nigeria_Growth_Rate,1.388888888888884,1.388888888888884
+1996,Nigeria_Growth_Rate,4.109589041095885,4.109589041095885
+1997,Nigeria_Growth_Rate,3.9473684210526327,3.9473684210526327
+1998,Nigeria_Growth_Rate,1.2658227848101333,1.2658227848101333
+1999,Nigeria_Growth_Rate,3.750000000000009,3.750000000000009
+2000,Nigeria_Growth_Rate,4.819277108433728,4.819277108433728
+2001,Nigeria_Growth_Rate,4.597701149425282,4.597701149425282
+2002,Nigeria_Growth_Rate,3.296703296703307,3.296703296703307
+2003,Nigeria_Growth_Rate,4.255319148936176,4.255319148936176
+2004,Nigeria_Growth_Rate,1.0204081632652962,1.0204081632652962
+2005,Nigeria_Growth_Rate,6.060606060606055,6.060606060606055
+2006,Nigeria_Growth_Rate,0.952380952380949,0.952380952380949
+2007,Nigeria_Growth_Rate,3.7735849056603765,3.7735849056603765
+2008,Nigeria_Growth_Rate,2.7272727272727337,2.7272727272727337
+2009,Nigeria_Growth_Rate,-1.7699115044247815,-1.7699115044247815
+2010,Nigeria_Growth_Rate,14.414414414414424,14.414414414414424
+2011,Nigeria_Growth_Rate,9.4488188976378,9.4488188976378
+2012,Nigeria_Growth_Rate,0.7194244604316502,0.7194244604316502
+2013,Nigeria_Growth_Rate,2.1428571428571352,2.1428571428571352
+2014,Nigeria_Growth_Rate,2.7972027972027913,2.7972027972027913
+2015,Nigeria_Growth_Rate,-1.3605442176870763,-1.3605442176870763
+2016,Nigeria_Growth_Rate,3.4482758620689724,3.4482758620689724
+2017,Nigeria_Growth_Rate,1.333333333333342,1.333333333333342
+2018,Nigeria_Growth_Rate,5.263157894736836,5.263157894736836
+2019,Nigeria_Growth_Rate,-1.8750000000000044,-1.8750000000000044
+2020,Nigeria_Growth_Rate,1.273885350318471,1.273885350318471
+1990,South Africa_Growth_Rate,,
+1991,South Africa_Growth_Rate,2.2222222222222143,2.2222222222222143
+1992,South Africa_Growth_Rate,-4.347826086956519,-4.347826086956519
+1993,South Africa_Growth_Rate,6.818181818181812,6.818181818181812
+1994,South Africa_Growth_Rate,4.255319148936176,4.255319148936176
+1995,South Africa_Growth_Rate,6.1224489795918435,6.1224489795918435
+1996,South Africa_Growth_Rate,2.8846153846153744,2.8846153846153744
+1997,South Africa_Growth_Rate,1.869158878504673,1.869158878504673
+1998,South Africa_Growth_Rate,1.83486238532109,1.83486238532109
+1999,South Africa_Growth_Rate,-1.8018018018018056,-1.8018018018018056
+2000,South Africa_Growth_Rate,0.0,0.0
+2001,South Africa_Growth_Rate,-3.669724770642202,-3.669724770642202
+2002,South Africa_Growth_Rate,-4.761904761904767,-4.761904761904767
+2003,South Africa_Growth_Rate,12.99999999999999,12.99999999999999
+2004,South Africa_Growth_Rate,8.849557522123884,8.849557522123884
+2005,South Africa_Growth_Rate,-4.0650406504065035,-4.0650406504065035
+2006,South Africa_Growth_Rate,1.6949152542372836,1.6949152542372836
+2007,South Africa_Growth_Rate,9.166666666666657,9.166666666666657
+2008,South Africa_Growth_Rate,8.3969465648855,8.3969465648855
+2009,South Africa_Growth_Rate,1.4084507042253502,1.4084507042253502
+2010,South Africa_Growth_Rate,-6.944444444444442,-6.944444444444442
+2011,South Africa_Growth_Rate,2.238805970149249,2.238805970149249
+2012,South Africa_Growth_Rate,-4.379562043795615,-4.379562043795615
+2013,South Africa_Growth_Rate,-0.7633587786259555,-0.7633587786259555
+2014,South Africa_Growth_Rate,6.153846153846154,6.153846153846154
+2015,South Africa_Growth_Rate,-6.521739130434778,-6.521739130434778
+2016,South Africa_Growth_Rate,4.651162790697683,4.651162790697683
+2017,South Africa_Growth_Rate,0.7407407407407307,0.7407407407407307
+2018,South Africa_Growth_Rate,-1.4705882352941124,-1.4705882352941124
+2019,South Africa_Growth_Rate,-3.731343283582089,-3.731343283582089
+2020,South Africa_Growth_Rate,-3.875968992248058,-3.875968992248058
+1990,Iran_Growth_Rate,,
+1991,Iran_Growth_Rate,11.594202898550732,11.594202898550732
+1992,Iran_Growth_Rate,5.1948051948051965,5.1948051948051965
+1993,Iran_Growth_Rate,7.407407407407418,7.407407407407418
+1994,Iran_Growth_Rate,11.494252873563227,11.494252873563227
+1995,Iran_Growth_Rate,4.123711340206193,4.123711340206193
+1996,Iran_Growth_Rate,-2.970297029702973,-2.970297029702973
+1997,Iran_Growth_Rate,11.22448979591837,11.22448979591837
+1998,Iran_Growth_Rate,1.83486238532109,1.83486238532109
+1999,Iran_Growth_Rate,13.513513513513509,13.513513513513509
+2000,Iran_Growth_Rate,-2.3809523809523836,-2.3809523809523836
+2001,Iran_Growth_Rate,8.130081300813007,8.130081300813007
+2002,Iran_Growth_Rate,3.759398496240607,3.759398496240607
+2003,Iran_Growth_Rate,3.6231884057970953,3.6231884057970953
+2004,Iran_Growth_Rate,9.090909090909083,9.090909090909083
+2005,Iran_Growth_Rate,10.897435897435903,10.897435897435903
+2006,Iran_Growth_Rate,4.046242774566466,4.046242774566466
+2007,Iran_Growth_Rate,6.111111111111112,6.111111111111112
+2008,Iran_Growth_Rate,7.329842931937169,7.329842931937169
+2009,Iran_Growth_Rate,-0.4878048780487809,-0.4878048780487809
+2010,Iran_Growth_Rate,0.0,0.0
+2011,Iran_Growth_Rate,1.9607843137254832,1.9607843137254832
+2012,Iran_Growth_Rate,4.807692307692313,4.807692307692313
+2013,Iran_Growth_Rate,1.83486238532109,1.83486238532109
+2014,Iran_Growth_Rate,7.2072072072072,7.2072072072072
+2015,Iran_Growth_Rate,0.0,0.0
+2016,Iran_Growth_Rate,3.3613445378151363,3.3613445378151363
+2017,Iran_Growth_Rate,6.5040650406503975,6.5040650406503975
+2018,Iran_Growth_Rate,1.526717557251911,1.526717557251911
+2019,Iran_Growth_Rate,1.1278195488721776,1.1278195488721776
+2020,Iran_Growth_Rate,-0.371747211895912,-0.371747211895912
+1990,Kuwait_Growth_Rate,,
+1991,Kuwait_Growth_Rate,-66.66666666666667,-66.66666666666667
+1992,Kuwait_Growth_Rate,200.0,200.0
+1993,Kuwait_Growth_Rate,33.33333333333333,33.33333333333333
+1994,Kuwait_Growth_Rate,16.666666666666675,16.666666666666675
+1995,Kuwait_Growth_Rate,7.14285714285714,7.14285714285714
+1996,Kuwait_Growth_Rate,-6.666666666666665,-6.666666666666665
+1997,Kuwait_Growth_Rate,7.14285714285714,7.14285714285714
+1998,Kuwait_Growth_Rate,13.33333333333333,13.33333333333333
+1999,Kuwait_Growth_Rate,5.882352941176472,5.882352941176472
+2000,Kuwait_Growth_Rate,5.555555555555558,5.555555555555558
+2001,Kuwait_Growth_Rate,5.263157894736836,5.263157894736836
+2002,Kuwait_Growth_Rate,0.0,0.0
+2003,Kuwait_Growth_Rate,5.000000000000004,5.000000000000004
+2004,Kuwait_Growth_Rate,14.28571428571428,14.28571428571428
+2005,Kuwait_Growth_Rate,12.5,12.5
+2006,Kuwait_Growth_Rate,-7.4074074074074066,-7.4074074074074066
+2007,Kuwait_Growth_Rate,0.0,0.0
+2008,Kuwait_Growth_Rate,12.00000000000001,12.00000000000001
+2009,Kuwait_Growth_Rate,3.571428571428581,3.571428571428581
+2010,Kuwait_Growth_Rate,0.0,0.0
+2011,Kuwait_Growth_Rate,-3.4482758620689613,-3.4482758620689613
+2012,Kuwait_Growth_Rate,3.571428571428581,3.571428571428581
+2013,Kuwait_Growth_Rate,3.4482758620689724,3.4482758620689724
+2014,Kuwait_Growth_Rate,-9.999999999999998,-9.999999999999998
+2015,Kuwait_Growth_Rate,22.222222222222232,22.222222222222232
+2016,Kuwait_Growth_Rate,9.090909090909083,9.090909090909083
+2017,Kuwait_Growth_Rate,-5.555555555555558,-5.555555555555558
+2018,Kuwait_Growth_Rate,0.0,0.0
+2019,Kuwait_Growth_Rate,5.882352941176472,5.882352941176472
+2020,Kuwait_Growth_Rate,5.555555555555558,5.555555555555558
+1990,Saudi Arabia_Growth_Rate,,
+1991,Saudi Arabia_Growth_Rate,17.24137931034482,17.24137931034482
+1992,Saudi Arabia_Growth_Rate,13.235294117647056,13.235294117647056
+1993,Saudi Arabia_Growth_Rate,3.8961038961038863,3.8961038961038863
+1994,Saudi Arabia_Growth_Rate,5.000000000000004,5.000000000000004
+1995,Saudi Arabia_Growth_Rate,1.1904761904761862,1.1904761904761862
+1996,Saudi Arabia_Growth_Rate,5.882352941176472,5.882352941176472
+1997,Saudi Arabia_Growth_Rate,-4.444444444444439,-4.444444444444439
+1998,Saudi Arabia_Growth_Rate,6.976744186046502,6.976744186046502
+1999,Saudi Arabia_Growth_Rate,2.1739130434782705,2.1739130434782705
+2000,Saudi Arabia_Growth_Rate,4.255319148936176,4.255319148936176
+2001,Saudi Arabia_Growth_Rate,2.0408163265306145,2.0408163265306145
+2002,Saudi Arabia_Growth_Rate,13.99999999999999,13.99999999999999
+2003,Saudi Arabia_Growth_Rate,0.8771929824561431,0.8771929824561431
+2004,Saudi Arabia_Growth_Rate,0.0,0.0
+2005,Saudi Arabia_Growth_Rate,6.956521739130439,6.956521739130439
+2006,Saudi Arabia_Growth_Rate,7.317073170731714,7.317073170731714
+2007,Saudi Arabia_Growth_Rate,4.545454545454541,4.545454545454541
+2008,Saudi Arabia_Growth_Rate,9.420289855072461,9.420289855072461
+2009,Saudi Arabia_Growth_Rate,5.298013245033117,5.298013245033117
+2010,Saudi Arabia_Growth_Rate,10.062893081761004,10.062893081761004
+2011,Saudi Arabia_Growth_Rate,5.142857142857138,5.142857142857138
+2012,Saudi Arabia_Growth_Rate,2.717391304347827,2.717391304347827
+2013,Saudi Arabia_Growth_Rate,-0.5291005291005346,-0.5291005291005346
+2014,Saudi Arabia_Growth_Rate,10.106382978723394,10.106382978723394
+2015,Saudi Arabia_Growth_Rate,4.347826086956519,4.347826086956519
+2016,Saudi Arabia_Growth_Rate,-0.462962962962965,-0.462962962962965
+2017,Saudi Arabia_Growth_Rate,1.8604651162790642,1.8604651162790642
+2018,Saudi Arabia_Growth_Rate,-2.2831050228310557,-2.2831050228310557
+2019,Saudi Arabia_Growth_Rate,0.4672897196261738,0.4672897196261738
+2020,Saudi Arabia_Growth_Rate,-2.7906976744186074,-2.7906976744186074
+1990,United Arab Emirates_Growth_Rate,,
+1991,United Arab Emirates_Growth_Rate,14.999999999999991,14.999999999999991
+1992,United Arab Emirates_Growth_Rate,-4.347826086956519,-4.347826086956519
+1993,United Arab Emirates_Growth_Rate,4.545454545454541,4.545454545454541
+1994,United Arab Emirates_Growth_Rate,13.043478260869556,13.043478260869556
+1995,United Arab Emirates_Growth_Rate,7.692307692307687,7.692307692307687
+1996,United Arab Emirates_Growth_Rate,3.571428571428581,3.571428571428581
+1997,United Arab Emirates_Growth_Rate,6.896551724137923,6.896551724137923
+1998,United Arab Emirates_Growth_Rate,3.2258064516129004,3.2258064516129004
+1999,United Arab Emirates_Growth_Rate,0.0,0.0
+2000,United Arab Emirates_Growth_Rate,-3.125,-3.125
+2001,United Arab Emirates_Growth_Rate,29.032258064516125,29.032258064516125
+2002,United Arab Emirates_Growth_Rate,-2.500000000000002,-2.500000000000002
+2003,United Arab Emirates_Growth_Rate,-2.564102564102566,-2.564102564102566
+2004,United Arab Emirates_Growth_Rate,10.526315789473696,10.526315789473696
+2005,United Arab Emirates_Growth_Rate,4.761904761904767,4.761904761904767
+2006,United Arab Emirates_Growth_Rate,4.545454545454541,4.545454545454541
+2007,United Arab Emirates_Growth_Rate,8.695652173913038,8.695652173913038
+2008,United Arab Emirates_Growth_Rate,17.999999999999993,17.999999999999993
+2009,United Arab Emirates_Growth_Rate,8.47457627118644,8.47457627118644
+2010,United Arab Emirates_Growth_Rate,-4.6875,-4.6875
+2011,United Arab Emirates_Growth_Rate,-1.6393442622950838,-1.6393442622950838
+2012,United Arab Emirates_Growth_Rate,6.666666666666665,6.666666666666665
+2013,United Arab Emirates_Growth_Rate,6.25,6.25
+2014,United Arab Emirates_Growth_Rate,8.823529411764696,8.823529411764696
+2015,United Arab Emirates_Growth_Rate,2.7027027027026973,2.7027027027026973
+2016,United Arab Emirates_Growth_Rate,3.9473684210526327,3.9473684210526327
+2017,United Arab Emirates_Growth_Rate,-1.2658227848101222,-1.2658227848101222
+2018,United Arab Emirates_Growth_Rate,0.0,0.0
+2019,United Arab Emirates_Growth_Rate,6.41025641025641,6.41025641025641
+2020,United Arab Emirates_Growth_Rate,-2.409638554216864,-2.409638554216864
